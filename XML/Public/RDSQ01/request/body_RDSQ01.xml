@@ -1,0 +1,57 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+        <MBS>  
+        <pub>  
+            <SRCOUTSYSTEMCODE>A3</SRCOUTSYSTEMCODE>  
+            <SRCBATCHNO>2019083455000002</SRCBATCHNO>  
+            <TRANSCODE>RDSQ01</TRANSCODE>  
+            <TRANSDATETIME>2020-08-29 13:33:59</TRANSDATETIME>  
+            <MD5>f6f39edfe660af9220f0bb4184e3b073</MD5> 
+        </pub>  
+        <req>  
+            <list>  
+                <detail>  
+                <URID>txbRDSQ01</URID>
+                <ORGCODE>001000</ORGCODE> 
+                <DRAFTTYPE>1</DRAFTTYPE>  
+                <DRAFTCODE>yp2019083455000004</DRAFTCODE>  
+                <DEPTCODE>001000</DEPTCODE>  
+                <REGISTERDATE>2021-02-26</REGISTERDATE>  
+                <DRAFTDATE>2021-02-26</DRAFTDATE>  
+                <ENDDATE>2022-03-31</ENDDATE>  
+                <TERMS>3</TERMS>  
+                <ENDORSETYPE>2</ENDORSETYPE>  
+                <ENDORSEORGCODE/>  
+                <ENDORSECOUNTERPARTYCODE>000002</ENDORSECOUNTERPARTYCODE>  
+                <ENDORSECOUNTERPARTYNAME>小草</ENDORSECOUNTERPARTYNAME>  
+                <PAYBANKCODE>BOC</PAYBANKCODE>  
+                <CURRENCYCODE>CNY</CURRENCYCODE>  
+                <DRAFTAMOUNT>100</DRAFTAMOUNT>  
+                <DRAFTSTATE>2</DRAFTSTATE>  
+                <APPROVESTATE>2</APPROVESTATE>  
+                <DESCRIPTION>描述111</DESCRIPTION>  
+                <ACCEPTOR>称对方222</ACCEPTOR>  
+                <PAYBANKLOCATIONCODE>104521006117</PAYBANKLOCATIONCODE>  
+                <RECNAME>收款方</RECNAME>  
+                <RECACCOUNTNUMBER>112323</RECACCOUNTNUMBER>  
+                <CREATEDBY>Felix</CREATEDBY>  
+                <CREATEDON>2021-05-14 04:29:12</CREATEDON>  
+                <LASTMODIFIEDBY>Felix</LASTMODIFIEDBY>  
+                <LASTMODIFIEDON>2021-05-14 04:29:23</LASTMODIFIEDON>  
+                <ROWVERSION>1</ROWVERSION>  
+                <TENANTID>10001</TENANTID>  
+                <EXTFIELD1>22</EXTFIELD1>  
+                <EXTFIELD2>471</EXTFIELD2> 
+                </detail> 
+            </list> 
+            </req>
+        </MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

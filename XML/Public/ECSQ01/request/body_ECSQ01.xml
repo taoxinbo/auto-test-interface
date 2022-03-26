@@ -1,0 +1,34 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+  <pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>201908280021</SRCBATCHNO>
+    <TRANSCODE>ECSQ01</TRANSCODE>
+    <TRANSDATETIME>2019-08-29 11:24:00</TRANSDATETIME>
+    <MD5>123456</MD5>
+  </pub>
+  <req>
+    <list>
+        <detail>
+        <CREDITNUMBER>CKXYZ001</CREDITNUMBER><!--信用证号码-->
+        <CHARGEID>rl001</CHARGEID><!--认领号-->
+        <AMOUNT>10000</AMOUNT><!--开证金额-->
+        <PAYTYPECODE>201</PAYTYPECODE><!--交易类型代码-->
+        <BUDGETITEMCODE>1111</BUDGETITEMCODE><!--计划项目编码-->
+        </detail>
+    </list>
+  </req>
+</MBS>
+ ]]>
+        </out:in0>
+         
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

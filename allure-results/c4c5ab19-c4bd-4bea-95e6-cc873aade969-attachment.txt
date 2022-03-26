@@ -1,0 +1,8 @@
+INFO     root:conftest.py:13 调用'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+INFO     root:conftest.py:15 调用'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+INFO     root:Test_interface_auto_test_xml_Public.py:39 APIName：body_CPSQ01
+INFO     root:Test_interface_auto_test_xml_Public.py:69 接口名称：body_CPSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALSTATE":"2"} 
+INFO     root:Test_interface_auto_test_xml_Public.py:255 报文body_CPSQ01测试通过
+================================================================================

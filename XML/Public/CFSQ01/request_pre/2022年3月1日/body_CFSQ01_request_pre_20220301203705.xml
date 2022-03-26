@@ -1,0 +1,46 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>        
+
+<![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+  <pub>
+    <MD5>0cc9d32e74687cfcb39438b6650ced99</MD5>
+    <SRCBATCHNO>nancy008</SRCBATCHNO>  
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <TRANSCODE>CFSQ01</TRANSCODE>
+    <TRANSDATETIME>2021-04-09 12:33:03</TRANSDATETIME>
+  </pub>  
+  <req>
+    <head>
+      <BATCHNO>nancy008</BATCHNO>
+      <ALLAMOUNT>19850820.11</ALLAMOUNT>
+      <ALLCOUNT>1</ALLCOUNT>
+    </head>
+    <list> 
+      <detail>
+        <SRCSERIALNO>nancy008</SRCSERIALNO>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>  
+        <BUSINESSTYPE>AP</BUSINESSTYPE>
+        <PAYTYPECODE>AP</PAYTYPECODE>  
+        <ORGCODE>001000</ORGCODE>
+        <PAYDATE>2021-04-09</PAYDATE>  
+        <CURCODE>CNY</CURCODE>
+        <AMOUNT>19850820.11</AMOUNT>
+        <MEMO>1910应付发票备注新新</MEMO>  
+        <EXTFIELD1>19应付发票对方信息新新</EXTFIELD1>
+        <EXTFIELD2>2021-04-09</EXTFIELD2> 
+      </detail>  
+    </list>
+  </req> 
+</MBS>
+ ]]>
+        </out:in0>
+         
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,43 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+    <pub>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>txbFLSQ03</SRCBATCHNO>
+        <TRANSCODE>FLSQ03</TRANSCODE>
+        <TRANSDATETIME>2020-11-19 16:12:00</TRANSDATETIME>
+        <MD5>038fa26f0bc64730e3352253806adc8b</MD5>
+    </pub>
+    <req>
+        <head>
+            <ALLAMOUNT>100</ALLAMOUNT>
+            <ALLCOUNT>1</ALLCOUNT>
+        </head>
+        <list>
+            <detail>
+                <SRCSERIALNO>testFLSQ03</SRCSERIALNO>
+                <CONSRCSERIALNO>txbFLSQ01</CONSRCSERIALNO>
+                <CONTRACTCODE>testFLSQ01</CONTRACTCODE>
+                <FINANCINGCATEGORY>04</FINANCINGCATEGORY>
+                <ORGCODE>001000</ORGCODE>
+                <BANKCODE>BOC</BANKCODE>
+                <REPAYDATE>2021-04-01</REPAYDATE>
+                <PRINCIPAL>9850820.00</PRINCIPAL>
+                <INTEREST>3478.56</INTEREST>
+                <CURRENCYCODE>CNY</CURRENCYCODE>
+                <SETTLEMENTINTERESTMODE>1</SETTLEMENTINTERESTMODE>
+                <REPAYTYPE>1</REPAYTYPE>
+                <DESCRIPTION>testFLSQ03</DESCRIPTION>
+            </detail>
+        </list>
+    </req>
+</MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,39 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+                <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS> 
+  <pub> 
+    <MD5>20a9eb09a3b748520e03c69f49cfdbf5</MD5>  
+    <SRCBATCHNO>txbFLSQ02</SRCBATCHNO>  
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>  
+    <TRANSCODE>FLSQ02</TRANSCODE>  
+    <TRANSDATETIME>2019-11-08 13:40:47</TRANSDATETIME> 
+  </pub>  
+  <req>
+    <list>
+      <lenddetail>
+        <SRCSERIALNO>testFLSQ02</SRCSERIALNO>  
+        <CONSRCSERIALNO>txbFLSQ01</CONSRCSERIALNO>  
+        <CONTRACTCODE>testFLSQ01</CONTRACTCODE>  
+        <ORGCODE>001000</ORGCODE>  
+        <FINANCINGCATEGORY>04</FINANCINGCATEGORY>  
+        <BANKCODE>BOC</BANKCODE>  
+        <LOANAMOUNT>19850820.00</LOANAMOUNT>  
+        <CURRENCYCODE>CNY</CURRENCYCODE>  
+        <BEGINDATE>2021-01-01</BEGINDATE>  
+        <ENDDATE>2025-01-01</ENDDATE>  
+        <LENDDATE>2021-02-01</LENDDATE>  
+        <LENDAMOUNT>19850820.00</LENDAMOUNT>  
+        <REPAYDATE>2021-03-01</REPAYDATE>
+      </lenddetail>
+    </list>
+  </req> 
+</MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

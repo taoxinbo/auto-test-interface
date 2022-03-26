@@ -1,0 +1,52 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+ <MBS>
+  <pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>nancy20210412-3</SRCBATCHNO>
+    <TRANSCODE>JNSQ02</TRANSCODE>
+    <TRANSDATETIME>2019-12-25 15:14:20</TRANSDATETIME>
+    <MD5></MD5>
+  </pub>
+  <req>
+    <list>
+    <detail>
+        <SRCSERIALNO>txb_20220301203714</SRCSERIALNO>
+        <ORGCODE>001000</ORGCODE>
+        <DRAFTCODE>>001000</DRAFTCODE>
+        <BUSTYPE>01</BUSTYPE>
+        <OURBANKACCOUNTNUMBER>1010101010</OURBANKACCOUNTNUMBER>
+        <ACCOUNTDATE>2021-04-12</ACCOUNTDATE>
+        <AMOUNT>1314</AMOUNT>
+        <ABSTRACTS>摘要</ABSTRACTS>
+        <OPPNAME>对方名称</OPPNAME>
+        <OPPBANKCODE>LZCB</OPPBANKCODE>
+        <OPPBANKACCOUNTNAME>浙江国贸有限公司工行直联户</OPPBANKACCOUNTNAME>
+        <OPPBANKACCOUNTNUMBER>001003-1-2</OPPBANKACCOUNTNUMBER>
+        <ORIGINNOTE>ORIGINNOTE1225</ORIGINNOTE>
+        <DESCRIPTION>描述20191225</DESCRIPTION>
+        <MEMO>MEMO20191225</MEMO>
+        <CHECKCODE>CHECKCODE20191225</CHECKCODE>
+        <FINVOUCHERTYPE>123</FINVOUCHERTYPE>
+        <FINVOUCHERCODE>345</FINVOUCHERCODE>
+        <CREATEDBY>张山</CREATEDBY>
+        <CREATEDON>2021-4-12 15:20:23</CREATEDON>
+        <LASTMODIFIEDBY>李四</LASTMODIFIEDBY>
+        <LASTMODIFIEDON>2021-4-12 15:20:23</LASTMODIFIEDON>
+        <PURPOSE>用途20191225</PURPOSE>
+        <SOURCEID>来源ID</SOURCEID>
+        <BUDGETITEMCODE></BUDGETITEMCODE>
+    </detail>
+    </list>
+  </req>
+</MBS>]]>
+        </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

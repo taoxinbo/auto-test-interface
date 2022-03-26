@@ -1,0 +1,27 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+   <MBS>
+        <pub>
+            <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+            <SRCBATCHNO>mars_20210409001</SRCBATCHNO>
+            <TRANSCODE>BCQB01</TRANSCODE>
+            <TRANSDATETIME>2021-04-09 10:20:10</TRANSDATETIME>
+            <MD5>123456</MD5>
+        </pub>
+        <req>
+        <list>
+            <detail>
+                <urid>500436ffc5e94e309daa86ea6c412397</urid>
+                </detail>
+        </list>
+        </req>
+</MBS> 
+         ]]>
+</out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

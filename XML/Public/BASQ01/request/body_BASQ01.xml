@@ -1,0 +1,29 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[
+   <MBS>
+        <pub>
+                <SRCOUTSYSTEMCODE>sagd</SRCOUTSYSTEMCODE>
+                <SRCBATCHNO>TESTBASQ01001</SRCBATCHNO> 
+                <TRANSCODE>BASQ01</TRANSCODE>
+                <TRANSDATETIME>2021-04-13 10:20:10</TRANSDATETIME>
+                <MD5>123456</MD5>
+        </pub>
+            <req>
+                <list>
+                    <detail>
+                    <CLAIURID>c538447bea78432aa76944fe41e51595</CLAIURID>
+                    <CHARGEID>ZYTEST001</CHARGEID>
+                    <CLAIMDATE>2021-04-13 10:00:00</CLAIMDATE>
+                    </detail>
+                </list>
+            </req>
+        </MBS>
+    ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,101 @@
+2021-08-22 20:13:20 interface_auto_test_xml_Public.py[line:255] DEBUG logging.debug的内容：Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\工作\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public.py", line 31, in test_inter
+    if data["is_run"] == 'Y':
+TypeError: list indices must be integers or slices, not str
+
+2021-12-23 16:05:33 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:05:33 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:08:37 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:08:37 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:08:46 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:08:46 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:08:53 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:08:53 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:11:30 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:11:30 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:12:05 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"true"}
+2021-12-23 16:12:05 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:18:00 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":1,"ret_status":"0","ret_data":"用户名或密码无效"}
+2021-12-23 16:18:00 Interface_Login.py[line:35] INFO 10.60.47.127登陆失败，请检查相关数据！
+2021-12-23 16:18:26 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":1,"ret_status":"0","ret_data":"用户名或密码无效"}
+2021-12-23 16:18:26 Interface_Login.py[line:35] INFO 10.60.47.127登陆失败，请检查相关数据！
+2021-12-23 16:18:45 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 16:18:45 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:19:12 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 16:19:12 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:19:34 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 16:19:34 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:28:53 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 16:28:53 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 16:29:20 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 16:29:20 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:03:10 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:03:10 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:03:17 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:03:17 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:03:36 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:03:36 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:03:48 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:03:48 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:03:57 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:03:57 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:04:23 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:04:24 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:04:36 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:04:36 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:04:49 Interface_Login.py[line:23] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:04:49 Interface_Login.py[line:32] INFO 10.60.47.127登陆成功！
+2021-12-23 17:06:38 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:06:38 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:01 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:01 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:09 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:09 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:25 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:25 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:31 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:31 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:43 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:43 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:07:56 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:07:56 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:13:01 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:13:01 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:13:27 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:13:27 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:13:50 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:13:50 Interface_Login.py[line:34] INFO 10.60.47.127登陆成功！
+2021-12-23 17:18:02 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":1,"ret_status":"0","ret_data":"交易配置不存在"}
+2021-12-23 17:18:02 Interface_Login.py[line:38] INFO 10.60.47.127登陆失败，请检查相关数据！
+2021-12-23 17:18:48 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:18:48 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:19:12 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:19:12 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:19:45 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:19:45 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:27:07 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:27:07 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:27:13 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:27:13 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:27:54 Interface_Login.py[line:25] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:27:54 Interface_Login.py[line:35] INFO 10.60.47.127登陆成功！
+2021-12-23 17:30:29 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:30:29 Interface_Login.py[line:36] INFO 10.60.47.127登陆成功！
+2021-12-23 17:30:43 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:30:43 Interface_Login.py[line:36] INFO 10.60.47.127登陆成功！
+2021-12-23 17:34:06 Interface_Login.py[line:44] DEBUG 10.60.47.127异常的内容：'set-cookie'
+2021-12-23 17:34:21 Interface_Login.py[line:28] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:34:21 Interface_Login.py[line:44] DEBUG 10.60.47.127异常的内容：'Session' object has no attribute 'json'
+2021-12-23 17:35:42 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:35:42 Interface_Login.py[line:43] DEBUG 10.60.47.127异常的内容：'Session' object has no attribute 'json'
+2021-12-23 17:36:05 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:36:05 Interface_Login.py[line:43] DEBUG 10.60.47.127异常的内容：'Session' object has no attribute 'json'
+2021-12-23 17:36:17 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-23 17:36:17 Interface_Login.py[line:43] DEBUG 10.60.47.127异常的内容：'Session' object has no attribute 'json'
+2021-12-23 17:36:34 Interface_Login.py[line:27] INFO 10.60.47.127的执行返回结果：{"returnCode":0,"ret_status":"1","ret_data":"false"}
+2021-12-31 20:09:47 Clean_Oracle_DB.py[line:29] INFO 开始清除或修改Oracle环境的中间库数据......
+2021-12-31 20:09:47 Clean_Oracle_DB.py[line:40] INFO 已删除或修改Oracle环境的中间库数据！
+================================================================================
+2021-12-31 20:09:48 Clean_Oracle_DB.py[line:29] INFO 开始清除或修改Oracle环境的主库数据......
+2021-12-31 20:09:49 Clean_Oracle_DB.py[line:40] INFO 已删除或修改Oracle环境的主库数据！
+================================================================================

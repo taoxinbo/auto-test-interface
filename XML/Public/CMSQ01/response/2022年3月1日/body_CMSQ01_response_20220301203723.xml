@@ -1,0 +1,51 @@
+
+------=_Part_181_920666282.1646138271219
+Content-Type: application/xop+xml; charset=UTF-8; type="text/xml"
+Content-Transfer-Encoding: 8bit
+Content-ID: <soap.xml@xfire.codehaus.org>
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soap:Body><ns1:outSystemWSResponse xmlns:ns1="http://outsystem.ats.com.cn"><ns1:out>&lt;?xml version="1.0" encoding = "UTF-8"?>&lt;MBS>
+  &lt;pub>
+    &lt;SRCOUTSYSTEMCODE>OA&lt;/SRCOUTSYSTEMCODE>
+    &lt;SRCBATCHNO>S2020061801&lt;/SRCBATCHNO>
+    &lt;TRANSCODE>CMSQ01&lt;/TRANSCODE>
+    &lt;TRANSDATETIME>2022-03-01 20:37:51&lt;/TRANSDATETIME>
+    &lt;RESPCODE>0&lt;/RESPCODE>
+    &lt;RESPMSG>指令接收成功&lt;/RESPMSG>
+  &lt;/pub>
+  &lt;resp>
+    &lt;list>
+      &lt;detail>
+        &lt;ORGCODE>001000&lt;/ORGCODE>
+        &lt;CODE>s02&lt;/CODE>
+        &lt;DEALSTATE>2&lt;/DEALSTATE>
+        &lt;DEALDATE>2022-03-01 08:37:22&lt;/DEALDATE>
+        &lt;DEALMESSAGES>抽档成功&lt;/DEALMESSAGES>
+        &lt;accounts>
+          &lt;accountdetail>
+            &lt;ACCOUNTNUMBER>688745354&lt;/ACCOUNTNUMBER>
+            &lt;DEALSTATE>2&lt;/DEALSTATE>
+            &lt;DEALDATE>2022-03-01 08:37:22&lt;/DEALDATE>
+            &lt;DEALMESSAGES>抽档成功&lt;/DEALMESSAGES>
+          &lt;/accountdetail>
+        &lt;/accounts>
+      &lt;/detail>
+      &lt;detail>
+        &lt;ORGCODE>001000&lt;/ORGCODE>
+        &lt;CODE>s011&lt;/CODE>
+        &lt;DEALSTATE>2&lt;/DEALSTATE>
+        &lt;DEALDATE>2022-03-01 08:37:22&lt;/DEALDATE>
+        &lt;DEALMESSAGES>抽档成功&lt;/DEALMESSAGES>
+        &lt;accounts>
+          &lt;accountdetail>
+            &lt;ACCOUNTNUMBER>6332423654&lt;/ACCOUNTNUMBER>
+            &lt;DEALSTATE>2&lt;/DEALSTATE>
+            &lt;DEALDATE>2022-03-01 08:37:22&lt;/DEALDATE>
+            &lt;DEALMESSAGES>抽档成功&lt;/DEALMESSAGES>
+          &lt;/accountdetail>
+        &lt;/accounts>
+      &lt;/detail>
+    &lt;/list>
+  &lt;/resp>
+&lt;/MBS></ns1:out></ns1:outSystemWSResponse></soap:Body></soap:Envelope>
+------=_Part_181_920666282.1646138271219--

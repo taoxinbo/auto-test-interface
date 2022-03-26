@@ -1,0 +1,63 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+           <![CDATA[ 
+  <MBS>
+<pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>txbBASQ031_20220301203742</SRCBATCHNO>
+    <TRANSCODE>BASQ03</TRANSCODE>
+    <TRANSDATETIME>2020-04-26 10:00:00</TRANSDATETIME>
+    <MD5>123456</MD5>
+  </pub>
+  <req>
+    <list>
+      <detail>
+        <claiurid>ZJSK_001000_202104_00000011</claiurid>
+       <BANKACCOUNTNUMBER>9090909090</BANKACCOUNTNUMBER>
+        <PAYTYPECODE>201</PAYTYPECODE>
+        <COSTS>0.00</COSTS>
+        <BUDGETITEMCODE>1111</BUDGETITEMCODE>
+        <bizs>
+        <bizdetail>
+          <claimorgcode>001000</claimorgcode>
+          <amount>0.01</amount>
+      <DEPTCODE></DEPTCODE>
+         <PROJECTCODE></PROJECTCODE>
+      <CAPITALCATEGORYCODE>z01</CAPITALCATEGORYCODE>
+          <BUDGETITEMCODE>1111</BUDGETITEMCODE>
+               <CASHFLOWITEMCODE>002</CASHFLOWITEMCODE>
+               <CLAIMANT>sandy</CLAIMANT>
+               <CLAIMDATE>2020-04-01 15:25:00</CLAIMDATE>
+               <PAYDATE>2020-04-01</PAYDATE>
+               <CLAIMSTATE>认领</CLAIMSTATE>
+               <CLAIMNOTECODE>1234567</CLAIMNOTECODE>
+      <MEMO>教育科技认领第一笔</MEMO>
+        </bizdetail>
+           <bizdetail>
+          <claimorgcode>001004</claimorgcode>
+          <amount>0.01</amount>
+      <DEPTCODE></DEPTCODE>
+         <PROJECTCODE></PROJECTCODE>
+      <CAPITALCATEGORYCODE>z01</CAPITALCATEGORYCODE>
+          <BUDGETITEMCODE>1111</BUDGETITEMCODE>
+               <CASHFLOWITEMCODE>002</CASHFLOWITEMCODE>
+               <CLAIMANT>sandy</CLAIMANT>
+               <CLAIMDATE>2020-04-01 15:25:00</CLAIMDATE>
+               <PAYDATE>2020-04-01</PAYDATE>
+               <CLAIMSTATE>认领</CLAIMSTATE>
+               <CLAIMNOTECODE>1234567</CLAIMNOTECODE>
+      <MEMO>教育科技认领第一笔</MEMO>
+        </bizdetail>
+    </bizs>
+      </detail>
+    </list>
+  </req>
+</MBS>
+         ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

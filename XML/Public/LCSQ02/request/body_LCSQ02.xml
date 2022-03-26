@@ -1,0 +1,65 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+            <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+    <pub>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>Felix2021040811005</SRCBATCHNO> 
+        <TRANSCODE>LCSQ02</TRANSCODE>
+        <TRANSDATETIME>2020-06-03 16:41:32</TRANSDATETIME>
+        <MD5>123456</MD5>
+    </pub>
+    <req>
+        <list>
+            <detail>
+                <SRCSERIALNO>Felix2021040811005</SRCSERIALNO>
+                <CREDITNUMBER>Felix2021040811005</CREDITNUMBER>
+                <ORGCODE>001000</ORGCODE>
+                <CREDITTYPECODE>105</CREDITTYPECODE>
+                <ISSUINGBANKCODE>BOC</ISSUINGBANKCODE>
+                <AMOUNT>4.00</AMOUNT>
+                <CURRENCYCODE>CNY</CURRENCYCODE>
+                <EXCHANGERATE>1.0000</EXCHANGERATE>
+                <LOCALCURRENCYAMOUNT>4.00</LOCALCURRENCYAMOUNT>
+                <ISSUEDATE>2021-02-01</ISSUEDATE>
+                <ISFORWARDS>1</ISFORWARDS>
+                <FORWARDDAYS>391</FORWARDDAYS>
+                <EXPIRYDATE>2022-02-27</EXPIRYDATE>
+                <CREDITCODE>Felix阳光控股授信</CREDITCODE>
+                <CREDITDISCOUNTRATE>100.00</CREDITDISCOUNTRATE>
+                <CREDITEXCHANGERATE>1.0</CREDITEXCHANGERATE>
+                <USECREDITAMOUNT>4.00</USECREDITAMOUNT>
+                <USECREDITCURRENCYAMOUNT>4.00</USECREDITCURRENCYAMOUNT>
+                <OVERFLOWRATIO>0.00</OVERFLOWRATIO>
+                <ISTRANSFERABLE>0</ISTRANSFERABLE>
+                <ISIRREVOCABLE>0</ISIRREVOCABLE>
+                <ISPARTIALSHIPMENT>0</ISPARTIALSHIPMENT>
+                <ISTRANSHIPMENT>0</ISTRANSHIPMENT>
+                <feelist>
+                    <feedetail>
+                        <FEESNAME>费用1</FEESNAME>
+                        <FEESAMOUNT>10.00</FEESAMOUNT>
+                        <DESCRIPTION>1</DESCRIPTION>
+                        <FEESDATE>2021-09-10 16:41:32</FEESDATE>
+                    </feedetail>
+                </feelist>
+                <creditlist>
+                    <creditdetail>
+                        <GUARANTEETYPE>1</GUARANTEETYPE>
+                        <GUARANTEECODE/>
+                        <TRANSAMOUNT>4.00</TRANSAMOUNT>
+                        <DESCRIPTION>2</DESCRIPTION>
+                    </creditdetail>
+                </creditlist >
+            </detail>
+        </list>
+    </req>
+</MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

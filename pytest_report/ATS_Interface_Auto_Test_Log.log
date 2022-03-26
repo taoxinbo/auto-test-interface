@@ -1,0 +1,1076 @@
+2021-09-17 08:54:57 run_test.py[line:17] INFO µ÷ÓÃ'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 08:55:00 Del_Request_pre_and_Response.py[line:35] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 08:55:00 Del_Request_pre_and_Response.py[line:38] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 08:55:00 Del_Request_pre_and_Response.py[line:41] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 08:55:00 Del_Request_pre_and_Response.py[line:44] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 08:55:01 run_test.py[line:19] INFO µ÷ÓÃ'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 08:55:01 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý......
+2021-09-17 08:55:02 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 08:55:02 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý......
+2021-09-17 08:55:06 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 08:55:30 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_CPSQ01
+2021-09-17 08:55:30 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CPSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2"} 
+2021-09-17 08:55:33 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_CPSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:33 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ01
+2021-09-17 08:55:33 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:55:36 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:36 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ02
+2021-09-17 08:55:36 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETSYNCJOURNALSTATE-PBQB01
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSYNCJOURNALSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETSYNCJOURNALSTATE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETRECINFO-PBQB01
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:38 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETRECINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:39 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01
+2021-09-17 08:55:39 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:39 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTRECOPERATIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:40 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFO-PBQB01
+2021-09-17 08:55:40 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:40 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:40 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBUDGETITEMS-PBQB01
+2021-09-17 08:55:40 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:41 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:41 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYTYPE-PBQB01
+2021-09-17 08:55:41 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYTYPE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:41 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYTYPE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-PBQB01
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-01-PBQB01
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-01-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:42 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-01-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:43 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCHHISTORY-PBQB01
+2021-09-17 08:55:43 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCHHISTORY-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:43 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCHHISTORY-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:44 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBUDGETITEMSITUATION-PBQB01
+2021-09-17 08:55:44 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMSITUATION-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:44 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMSITUATION-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:44 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_FLSQ01
+2021-09-17 08:55:44 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:55:49 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_FLSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:49 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_FLSQ02
+2021-09-17 08:55:49 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_FLSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_FLSQ03
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_FLSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETFOREIGNPAYINFO-PBQB01
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFOREIGNPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETFOREIGNPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_FSSS01
+2021-09-17 08:55:50 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FSSS01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"Êý¾ÝÍ¬²½³É¹¦"} 
+2021-09-17 08:55:51 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_FSSS01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:51 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BCQB01
+2021-09-17 08:55:51 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BCQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"ÇëÇó´¦Àí³É¹¦"} 
+2021-09-17 08:55:51 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BCQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:52 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ04
+2021-09-17 08:55:52 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:55:54 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:54 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_CFSQ01
+2021-09-17 08:55:54 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CFSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:55:55 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_CFSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:56 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSS02
+2021-09-17 08:55:56 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSS02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:55:57 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSS02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:57 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_ACSQ01
+2021-09-17 08:55:57 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ACSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 08:55:58 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_ACSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:58 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_AGSQ01
+2021-09-17 08:55:58 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AGSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 08:55:59 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_AGSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:55:59 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01
+2021-09-17 08:55:59 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:55:59 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCSBYORGCODE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:00 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETSTATEOFACCS-PBQB01
+2021-09-17 08:56:00 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:00 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:00 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_ECSQ01
+2021-09-17 08:56:00 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ECSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 08:56:01 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_ECSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:01 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GLSQ01
+2021-09-17 08:56:01 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:56:02 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GLSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:02 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_JNSQ02
+2021-09-17 08:56:02 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"1","DETAILREMSG":"´¦Àí³É¹¦"} 
+2021-09-17 08:56:02 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_JNSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:03 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01
+2021-09-17 08:56:03 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:03 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKSTRANSANDDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETIVBALANCES-PBQB01
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETIVBALANCES-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETIVBALANCES-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BASQ01
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAISTATE":"2"} 
+2021-09-17 08:56:04 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BASQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:05 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01
+2021-09-17 08:56:05 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:05 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTIMAGEFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFOFORURL-PBQB01
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFOFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFOFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETELEHISIMAGEINFO-PBQB01
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEHISIMAGEINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETELEHISIMAGEINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_CMSQ01
+2021-09-17 08:56:06 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2","DEALMESSAGES":"³éµµ³É¹¦"} 
+2021-09-17 08:56:08 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_CMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:08 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ03-JN
+2021-09-17 08:56:08 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-JN£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:56:11 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ03-JN²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:11 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ03-KJ
+2021-09-17 08:56:11 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-KJ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:56:13 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ03-KJ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:13 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_PMSQ03-QQ
+2021-09-17 08:56:13 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-QQ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:56:15 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_PMSQ03-QQ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:15 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_LCSQ01
+2021-09-17 08:56:15 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1"} 
+2021-09-17 08:56:17 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_LCSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:17 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RDSQ04
+2021-09-17 08:56:17 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦£¡"} 
+2021-09-17 08:56:19 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RDSQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:19 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RDSQ05
+2021-09-17 08:56:19 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ05£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 08:56:20 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RDSQ05²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:20 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_TPSB01
+2021-09-17 08:56:20 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_TPSB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:56:21 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_TPSB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:21 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RRSQ01
+2021-09-17 08:56:21 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RRSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"³åÏú³É¹¦"} 
+2021-09-17 08:56:21 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RRSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:22 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BASQ03
+2021-09-17 08:56:22 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì×éÖ¯£º001000,ÈÏÁì½ð¶î£º0.01"} 
+2021-09-17 08:56:23 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BASQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:23 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BASQ04
+2021-09-17 08:56:23 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 08:56:23 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BASQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:24 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BASQ02
+2021-09-17 08:56:24 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 08:56:24 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BASQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:24 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01
+2021-09-17 08:56:24 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:25 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETFINANCIALPRODUCTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:25 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RMSQ01
+2021-09-17 08:56:25 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 08:56:26 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:26 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_AMSQ01-FK
+2021-09-17 08:56:26 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-FK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_AMSQ01-FK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_AMSQ01-SK
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-SK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_AMSQ01-SK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_JNSQ01
+2021-09-17 08:56:27 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"1","DETAILREMSG":"Ìí¼ÓÈÕ¼ÇÕËµ½ÖÐ¼ä±í³É¹¦£¬³éµµµ½±¾µØ±í³É¹¦"} 
+2021-09-17 08:56:28 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_JNSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:28 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RDSQ01
+2021-09-17 08:56:28 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RDSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKINFO-PBQB01
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETAREAINFO-PBQB01
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETAREAINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETAREAINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKLOCATIONINFO-PBQB01
+2021-09-17 08:56:29 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKLOCATIONINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:30 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKLOCATIONINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:30 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTINFO-PBQB01
+2021-09-17 08:56:30 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:30 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTSREFUNDSTATE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKBALANCE-PBQB01
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKBALANCE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKBALANCE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTSTRANS-PBQB01
+2021-09-17 08:56:31 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTSTRANS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:32 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTSTRANS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:32 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETRECMENTS-PBQB01
+2021-09-17 08:56:32 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETRECMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYINFO-PBQB01
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCH-PBQB01
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:33 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:34 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETTPPTRANSACTIONS-PBQB01
+2021-09-17 08:56:34 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETTPPTRANSACTIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:34 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETTPPTRANSACTIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:35 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_CBSQ01
+2021-09-17 08:56:35 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CBSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 08:56:35 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_CBSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:35 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETPAYMENTS-PBQB01
+2021-09-17 08:56:35 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:36 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:37 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BUSQ02
+2021-09-17 08:56:37 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:56:38 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BUSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:38 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_BUSQ01
+2021-09-17 08:56:38 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 08:56:39 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_BUSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:40 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_LCSQ02
+2021-09-17 08:56:40 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 08:56:42 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_LCSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_LCSQ03
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_LCSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RDSQ02
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 08:56:43 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RDSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_RDSQ03
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_RDSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:45] INFO APIName£ºbody_GETRECINFOBATCH-PBQB01
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 08:56:44 interface_auto_test_xml_Public.py[line:261] INFO ±¨ÎÄbody_GETRECINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:10 run_test.py[line:17] INFO µ÷ÓÃ'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 09:08:13 Del_Request_pre_and_Response.py[line:35] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 09:08:13 Del_Request_pre_and_Response.py[line:38] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 09:08:13 Del_Request_pre_and_Response.py[line:41] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 09:08:13 Del_Request_pre_and_Response.py[line:44] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 09:08:13 run_test.py[line:19] INFO µ÷ÓÃ'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 09:08:14 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý......
+2021-09-17 09:08:14 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 09:08:14 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý......
+2021-09-17 09:08:15 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 09:08:20 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_CPSQ01
+2021-09-17 09:08:20 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CPSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2"} 
+2021-09-17 09:08:20 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-01-PBQB01
+2021-09-17 09:08:20 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-01-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:20 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_CFSQ01
+2021-09-17 09:08:20 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CFSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-01-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCHHISTORY-PBQB01
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCHHISTORY-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCHHISTORY-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETBUDGETITEMSITUATION-PBQB01
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMSITUATION-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMSITUATION-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ01
+2021-09-17 09:08:21 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:22 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_CFSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:22 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_CPSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:22 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_PMSS02
+2021-09-17 09:08:22 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSS02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:22 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_PMSQ01
+2021-09-17 09:08:22 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:22 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_PMSS02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:23 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_ACSQ01
+2021-09-17 09:08:23 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ACSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 09:08:23 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_PMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:23 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_PMSQ02
+2021-09-17 09:08:23 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_ACSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_BA_ACCOUNTAPPLIES where SRCBATCHNO like '1txb%'"}
+================================================================================
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public3.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_AGSQ01
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AGSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_AGSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01
+2021-09-17 09:08:24 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:25 interface_auto_test_xml_Public1.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_PMSQ02ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_SE_PAYMENTS where SRCSERIALNO like '1testPMSQ02%'"}
+================================================================================
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCSBYORGCODE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETSTATEOFACCS-PBQB01
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:25 interface_auto_test_xml_Public1.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public1.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_ECSQ01
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ECSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_ECSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:25 interface_auto_test_xml_Public2.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_FLSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_MI_BANKLOANS where SRCSERIALNO like '1txbFLSQ01%'"}
+================================================================================
+2021-09-17 09:08:25 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETSYNCJOURNALSTATE-PBQB01
+2021-09-17 09:08:25 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSYNCJOURNALSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"10","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GLSQ01
+2021-09-17 09:08:25 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:25 interface_auto_test_xml_Public2.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public2.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_GETSYNCJOURNALSTATE-PBQB01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'RESPCODE': '0'}
+================================================================================
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public1.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETRECINFO-PBQB01
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETRECINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:26 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ02
+2021-09-17 09:08:26 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GLSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:26 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FLSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTRECOPERATIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:26 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_JNSQ02
+2021-09-17 09:08:26 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"21","DETAILREMSG":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ03
+2021-09-17 09:08:26 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFO-PBQB01
+2021-09-17 09:08:26 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:26 interface_auto_test_xml_Public3.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_JNSQ02ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'DETAILRECODE': '1'}
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FLSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETFOREIGNPAYINFO-PBQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFOREIGNPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETBUDGETITEMS-PBQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public3.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public3.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:27 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETFOREIGNPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETBANKSTRANSANDDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETPAYTYPE-PBQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYTYPE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FSSS01
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FSSS01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"Êý¾ÝÍ¬²½³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FSSS01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETPAYTYPE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-PBQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_BCQB01
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BCQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"ÇëÇó´¦Àí³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_BCQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_PMSQ04
+2021-09-17 09:08:27 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"1Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:27 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:29 interface_auto_test_xml_Public2.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_PMSQ04ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'RESPMSG': 'Ö¸Áî½ÓÊÕ³É¹¦'}
+================================================================================
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETIVBALANCES-PBQB01
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETIVBALANCES-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:30 interface_auto_test_xml_Public2.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public2.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETIVBALANCES-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ01
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAISTATE":"2"} 
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:30 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTIMAGEFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFOFORURL-PBQB01
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFOFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFOFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELEHISIMAGEINFO-PBQB01
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEHISIMAGEINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELEHISIMAGEINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_CMSQ01
+2021-09-17 09:08:31 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2","DEALMESSAGES":"³éµµ³É¹¦"} 
+2021-09-17 09:08:33 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_CMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:33 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-JN
+2021-09-17 09:08:33 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-JN£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:35 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-JN²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:35 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-KJ
+2021-09-17 09:08:35 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-KJ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:37 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-KJ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:37 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-QQ
+2021-09-17 09:08:37 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-QQ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:39 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-QQ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:39 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ01
+2021-09-17 09:08:39 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1"} 
+2021-09-17 09:08:40 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_LCSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:40 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ04
+2021-09-17 09:08:40 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦£¡"} 
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ05
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ05£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ05²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_TPSB01
+2021-09-17 09:08:42 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_TPSB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:43 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_TPSB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:43 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RRSQ01
+2021-09-17 09:08:43 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RRSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"³åÏú³É¹¦"} 
+2021-09-17 09:08:44 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RRSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:44 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ03
+2021-09-17 09:08:44 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì×éÖ¯£º001000,ÈÏÁì½ð¶î£º0.01"} 
+2021-09-17 09:08:47 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:47 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ04
+2021-09-17 09:08:47 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:08:47 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ02
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETFINANCIALPRODUCTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RMSQ01
+2021-09-17 09:08:48 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_AMSQ01-FK
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-FK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_AMSQ01-FK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_AMSQ01-SK
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-SK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 09:08:49 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_AMSQ01-SK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:50 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_JNSQ01
+2021-09-17 09:08:50 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"1","DETAILREMSG":"Ìí¼ÓÈÕ¼ÇÕËµ½ÖÐ¼ä±í³É¹¦£¬³éµµµ½±¾µØ±í³É¹¦"} 
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_JNSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ01
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKINFO-PBQB01
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETAREAINFO-PBQB01
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETAREAINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:51 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETAREAINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKLOCATIONINFO-PBQB01
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKLOCATIONINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKLOCATIONINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTINFO-PBQB01
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:52 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTSREFUNDSTATE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKBALANCE-PBQB01
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKBALANCE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKBALANCE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTSTRANS-PBQB01
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTSTRANS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTSTRANS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETRECMENTS-PBQB01
+2021-09-17 09:08:53 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETRECMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYINFO-PBQB01
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCH-PBQB01
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETTPPTRANSACTIONS-PBQB01
+2021-09-17 09:08:54 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETTPPTRANSACTIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETTPPTRANSACTIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_CBSQ01
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CBSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_CBSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYMENTS-PBQB01
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:08:55 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:56 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BUSQ02
+2021-09-17 09:08:56 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:56 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BUSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:56 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BUSQ01
+2021-09-17 09:08:56 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:08:57 interface_auto_test_xml_Public4.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_BUSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_MI_BUDGETS  a where a.SRCNOTECODE like '1txbBUSQ01%'"}
+================================================================================
+2021-09-17 09:08:57 interface_auto_test_xml_Public4.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public4.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:08:57 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ02
+2021-09-17 09:08:57 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:08:59 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_LCSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:08:59 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ03
+2021-09-17 09:08:59 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"1S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_LCSQ03ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'DEALSTATE': 'S'}
+================================================================================
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public4.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ02
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ03
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETRECINFOBATCH-PBQB01
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:09:00 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETRECINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:22 run_test.py[line:17] INFO µ÷ÓÃ'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 09:19:25 Del_Request_pre_and_Response.py[line:35] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 09:19:26 Del_Request_pre_and_Response.py[line:38] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºrequest_preºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 09:19:26 Del_Request_pre_and_Response.py[line:41] INFO ¿ªÊ¼É¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý......
+2021-09-17 09:19:26 Del_Request_pre_and_Response.py[line:44] INFO ÒÑÉ¾³ýÁÙÊ±ÎÄ¼þ¼Ð£ºresponseºÍÏÂÃæµÄÊý¾Ý£¡
+================================================================================
+2021-09-17 09:19:26 run_test.py[line:19] INFO µ÷ÓÃ'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 09:19:26 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý......
+2021-09-17 09:19:26 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖÐ¼ä¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 09:19:27 Clean_Oracle_DB.py[line:29] INFO ¿ªÊ¼Çå³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý......
+2021-09-17 09:19:27 Clean_Oracle_DB.py[line:40] INFO ÒÑÉ¾³ý»òÐÞ¸ÄOracle»·¾³µÄÖ÷¿âÊý¾Ý£¡
+================================================================================
+2021-09-17 09:19:35 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_CPSQ01
+2021-09-17 09:19:35 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CPSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2"} 
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-01-PBQB01
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-01-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:35 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_CFSQ01
+2021-09-17 09:19:35 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CFSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-01-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCHHISTORY-PBQB01
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCHHISTORY-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCHHISTORY-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETBUDGETITEMSITUATION-PBQB01
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMSITUATION-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:35 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMSITUATION-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:36 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ01
+2021-09-17 09:19:36 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:19:36 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_CFSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:36 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_PMSS02
+2021-09-17 09:19:36 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSS02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:36 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_CPSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:36 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_PMSQ01
+2021-09-17 09:19:36 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:37 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_PMSS02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:37 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_ACSQ01
+2021-09-17 09:19:37 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ACSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 09:19:37 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_PMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:38 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_PMSQ02
+2021-09-17 09:19:38 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:38 interface_auto_test_xml_Public3.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_ACSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_BA_ACCOUNTAPPLIES where SRCBATCHNO like '1txb%'"}
+================================================================================
+2021-09-17 09:19:38 interface_auto_test_xml_Public3.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public3.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:38 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_AGSQ01
+2021-09-17 09:19:38 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AGSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_AGSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCSBYORGCODE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_PMSQ02ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_SE_PAYMENTS where SRCSERIALNO like '1testPMSQ02%'"}
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCSBYORGCODE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public1.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETSTATEOFACCS-PBQB01
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSTATEOFACCS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETSTATEOFACCS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_ECSQ01
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETSYNCJOURNALSTATE-PBQB01
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETSYNCJOURNALSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"10","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_ECSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_ECSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public2.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_FLSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_MI_BANKLOANS where SRCSERIALNO like '1txbFLSQ01%'"}
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GLSQ01
+2021-09-17 09:19:39 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GLSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_GETSYNCJOURNALSTATE-PBQB01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'RESPCODE': '0'}
+================================================================================
+2021-09-17 09:19:39 interface_auto_test_xml_Public2.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public2.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:39 interface_auto_test_xml_Public1.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public1.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETRECINFO-PBQB01
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETRECINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:40 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ02
+2021-09-17 09:19:40 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTRECOPERATIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTRECOPERATIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFO-PBQB01
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:40 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FLSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETBUDGETITEMS-PBQB01
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBUDGETITEMS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FLSQ03
+2021-09-17 09:19:40 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FLSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETBUDGETITEMS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETPAYTYPE-PBQB01
+2021-09-17 09:19:40 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYTYPE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETPAYTYPE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public1.py[line:45] INFO APIName£ºbody_GETBANKDAYBOOKS-PBQB01
+2021-09-17 09:19:41 interface_auto_test_xml_Public1.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FLSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_GETFOREIGNPAYINFO-PBQB01
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFOREIGNPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public1.py[line:261] INFO ±¨ÎÄbody_GETBANKDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GLSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_GETFOREIGNPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_JNSQ02
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"21","DETAILREMSG":"´¦Àí³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_FSSS01
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_FSSS01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"Êý¾ÝÍ¬²½³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_JNSQ02ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'DETAILRECODE': '1'}
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_FSSS01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public3.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_BCQB01
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BCQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"ÇëÇó´¦Àí³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:45] INFO APIName£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01
+2021-09-17 09:19:41 interface_auto_test_xml_Public3.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKSTRANSANDDAYBOOKS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:261] INFO ±¨ÎÄbody_BCQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:45] INFO APIName£ºbody_PMSQ04
+2021-09-17 09:19:41 interface_auto_test_xml_Public2.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"1Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:42 interface_auto_test_xml_Public3.py[line:261] INFO ±¨ÎÄbody_GETBANKSTRANSANDDAYBOOKS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETIVBALANCES-PBQB01
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETIVBALANCES-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETIVBALANCES-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ01
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAISTATE":"2"} 
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01
+2021-09-17 09:19:43 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEDRAFTIMAGEFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:43 interface_auto_test_xml_Public2.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_PMSQ04ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'RESPMSG': 'Ö¸Áî½ÓÊÕ³É¹¦'}
+================================================================================
+2021-09-17 09:19:44 interface_auto_test_xml_Public2.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public2.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELEDRAFTIMAGEFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELERECEIPTSINFOFORURL-PBQB01
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELERECEIPTSINFOFORURL-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELERECEIPTSINFOFORURL-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETELEHISIMAGEINFO-PBQB01
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETELEHISIMAGEINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETELEHISIMAGEINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_CMSQ01
+2021-09-17 09:19:44 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"2","DEALMESSAGES":"³éµµ³É¹¦"} 
+2021-09-17 09:19:46 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_CMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:46 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-JN
+2021-09-17 09:19:46 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-JN£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:48 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-JN²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:48 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-KJ
+2021-09-17 09:19:48 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-KJ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:50 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-KJ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:50 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_PMSQ03-QQ
+2021-09-17 09:19:50 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_PMSQ03-QQ£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:53 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_PMSQ03-QQ²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:53 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ01
+2021-09-17 09:19:53 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1"} 
+2021-09-17 09:19:54 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_LCSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:54 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ04
+2021-09-17 09:19:54 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦£¡"} 
+2021-09-17 09:19:56 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:56 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ05
+2021-09-17 09:19:56 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ05£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:19:57 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ05²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:57 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_TPSB01
+2021-09-17 09:19:57 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_TPSB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_TPSB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RRSQ01
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RRSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"³åÏú³É¹¦"} 
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RRSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ03
+2021-09-17 09:19:58 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì×éÖ¯£º001000,ÈÏÁì½ð¶î£º0.01"} 
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ04
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ04£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ04²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BASQ02
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BASQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BASQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETFINANCIALPRODUCTSINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETFINANCIALPRODUCTSINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RMSQ01
+2021-09-17 09:19:59 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RMSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦"} 
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RMSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_AMSQ01-FK
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-FK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_AMSQ01-FK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_AMSQ01-SK
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_AMSQ01-SK£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALSTATE":"S","DEALINFO":"Æ¾Ö¤ºÅ±£´æ³É¹¦"} 
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_AMSQ01-SK²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_JNSQ01
+2021-09-17 09:20:01 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_JNSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DETAILRECODE":"1","DETAILREMSG":"Ìí¼ÓÈÕ¼ÇÕËµ½ÖÐ¼ä±í³É¹¦£¬³éµµµ½±¾µØ±í³É¹¦"} 
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_JNSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ01
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKINFO-PBQB01
+2021-09-17 09:20:02 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETAREAINFO-PBQB01
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETAREAINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETAREAINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKLOCATIONINFO-PBQB01
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKLOCATIONINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKLOCATIONINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTINFO-PBQB01
+2021-09-17 09:20:03 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTSREFUNDSTATE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTSREFUNDSTATE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKBALANCE-PBQB01
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKBALANCE-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:04 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKBALANCE-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETBANKACCOUNTSTRANS-PBQB01
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETBANKACCOUNTSTRANS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETBANKACCOUNTSTRANS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETRECMENTS-PBQB01
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETRECMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYINFO-PBQB01
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFO-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:05 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYINFO-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYINFOBATCH-PBQB01
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETTPPTRANSACTIONS-PBQB01
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETTPPTRANSACTIONS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETTPPTRANSACTIONS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_CBSQ01
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_CBSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RECODE":"1","REMSG":"ÅúÁ¿Í¬²½³É¹¦£¡"} 
+2021-09-17 09:20:06 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_CBSQ01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:07 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETPAYMENTS-PBQB01
+2021-09-17 09:20:07 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETPAYMENTS-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:07 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETPAYMENTS-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:07 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BUSQ02
+2021-09-17 09:20:07 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:20:08 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_BUSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:08 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_BUSQ01
+2021-09-17 09:20:08 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_BUSQ01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"S","DEALINFO":"´¦Àí³É¹¦"} 
+2021-09-17 09:20:09 interface_auto_test_xml_Public4.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_BUSQ01ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'Ã»Êý¾Ý»ò´æÔÚÎÊÌâµÄsql': "select * from T_MI_BUDGETS  a where a.SRCNOTECODE like '1txbBUSQ01%'"}
+================================================================================
+2021-09-17 09:20:09 interface_auto_test_xml_Public4.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public4.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:20:09 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ02
+2021-09-17 09:20:09 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"Ö¸Áî½ÓÊÕ³É¹¦","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:20:11 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_LCSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:11 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_LCSQ03
+2021-09-17 09:20:11 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_LCSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"DEALSTATE":"1S","DEALINFO":"³éµµ³É¹¦"} 
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:266] INFO ²âÊÔ²»Í¨¹ý£¬±¨ÎÄbody_LCSQ03ÖÐÐ£Ñé²»Ò»ÖÂµÄÄÚÈÝ:{'DEALSTATE': 'S'}
+================================================================================
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:276] DEBUG logging.debugµÄÄÚÈÝ£ºTraceback (most recent call last):
+  File "C:\Users\F\Desktop\ATS_Interface_Auto_Test_Public\TestScript\interface_auto_test_xml_Public4.py", line 270, in test_inter
+    assert len(Err_l) == 0
+AssertionError: assert 1 == 0
+  +1
+  -0
+
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ02
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ02£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ02²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_RDSQ03
+2021-09-17 09:20:12 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_RDSQ03£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"CLAISTATE":"1","CLAIMESSAGES":"ÈÏÁì³É¹¦"} 
+2021-09-17 09:20:13 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_RDSQ03²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 09:20:13 interface_auto_test_xml_Public4.py[line:45] INFO APIName£ºbody_GETRECINFOBATCH-PBQB01
+2021-09-17 09:20:13 interface_auto_test_xml_Public4.py[line:75] INFO ½Ó¿ÚÃû³Æ£ºbody_GETRECINFOBATCH-PBQB01£¬ÇëÇóµØÖ·£ºhttp://10.60.47.127:3330/webservice/outService.ws£¬ÇëÇó·½Ê½£ºpost,¼ì²éµã:{"RESPCODE":"0","RESPMSG":"²éÑ¯³É¹¦"} 
+2021-09-17 09:20:13 interface_auto_test_xml_Public4.py[line:261] INFO ±¨ÎÄbody_GETRECINFOBATCH-PBQB01²âÊÔÍ¨¹ý
+================================================================================
+2021-09-17 14:34:03 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 14:50:09 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 14:50:47 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 14:51:59 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 14:53:28 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 14:55:27 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 16:49:18 run_test.py[line:13] INFO è°ƒç”¨'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 16:49:20 Del_Request_pre_and_Response.py[line:35] INFO å¼€å§‹åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šrequest_preå’Œä¸‹é¢çš„æ•°æ®......
+2021-09-17 16:49:20 Del_Request_pre_and_Response.py[line:38] INFO å·²åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šrequest_preå’Œä¸‹é¢çš„æ•°æ®ï¼
+================================================================================
+2021-09-17 16:49:20 Del_Request_pre_and_Response.py[line:41] INFO å¼€å§‹åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šresponseå’Œä¸‹é¢çš„æ•°æ®......
+2021-09-17 16:49:20 Del_Request_pre_and_Response.py[line:44] INFO å·²åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šresponseå’Œä¸‹é¢çš„æ•°æ®ï¼
+================================================================================
+2021-09-17 16:49:20 run_test.py[line:15] INFO è°ƒç”¨'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 16:49:21 Clean_Oracle_DB.py[line:29] INFO å¼€å§‹æ¸…é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸­é—´åº“æ•°æ®......
+2021-09-17 16:49:22 Clean_Oracle_DB.py[line:40] INFO å·²åˆ é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸­é—´åº“æ•°æ®ï¼
+================================================================================
+2021-09-17 16:49:22 Clean_Oracle_DB.py[line:29] INFO å¼€å§‹æ¸…é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸»åº“æ•°æ®......
+2021-09-17 16:49:22 Clean_Oracle_DB.py[line:40] INFO å·²åˆ é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸»åº“æ•°æ®ï¼
+================================================================================
+2021-09-17 16:49:24 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.
+2021-09-17 16:50:25 run_test.py[line:13] INFO è°ƒç”¨'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 16:50:27 Del_Request_pre_and_Response.py[line:35] INFO å¼€å§‹åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šrequest_preå’Œä¸‹é¢çš„æ•°æ®......
+2021-09-17 16:50:27 Del_Request_pre_and_Response.py[line:38] INFO å·²åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šrequest_preå’Œä¸‹é¢çš„æ•°æ®ï¼
+================================================================================
+2021-09-17 16:50:27 Del_Request_pre_and_Response.py[line:41] INFO å¼€å§‹åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šresponseå’Œä¸‹é¢çš„æ•°æ®......
+2021-09-17 16:50:27 Del_Request_pre_and_Response.py[line:44] INFO å·²åˆ é™¤ä¸´æ—¶æ–‡ä»¶å¤¹ï¼šresponseå’Œä¸‹é¢çš„æ•°æ®ï¼
+================================================================================
+2021-09-17 16:50:27 run_test.py[line:15] INFO è°ƒç”¨'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2021-09-17 16:50:28 Clean_Oracle_DB.py[line:29] INFO å¼€å§‹æ¸…é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸­é—´åº“æ•°æ®......
+2021-09-17 16:50:29 Clean_Oracle_DB.py[line:40] INFO å·²åˆ é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸­é—´åº“æ•°æ®ï¼
+================================================================================
+2021-09-17 16:50:29 Clean_Oracle_DB.py[line:29] INFO å¼€å§‹æ¸…é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸»åº“æ•°æ®......
+2021-09-17 16:50:30 Clean_Oracle_DB.py[line:40] INFO å·²åˆ é™¤æˆ–ä¿®æ”¹OracleçŽ¯å¢ƒçš„ä¸»åº“æ•°æ®ï¼
+================================================================================
+2021-09-17 16:50:30 factory.py[line:18] DEBUG Not in REPL -> leaving logger event level as is.

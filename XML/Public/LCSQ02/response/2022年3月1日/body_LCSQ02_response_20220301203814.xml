@@ -1,0 +1,26 @@
+
+------=_Part_214_178959465.1646138322896
+Content-Type: application/xop+xml; charset=UTF-8; type="text/xml"
+Content-Transfer-Encoding: 8bit
+Content-ID: <soap.xml@xfire.codehaus.org>
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soap:Body><ns1:outSystemWSResponse xmlns:ns1="http://outsystem.ats.com.cn"><ns1:out>&lt;?xml version="1.0" encoding = "UTF-8"?>&lt;MBS>
+  &lt;pub>
+    &lt;SRCOUTSYSTEMCODE>OA&lt;/SRCOUTSYSTEMCODE>
+    &lt;SRCBATCHNO>Felix2021040811005&lt;/SRCBATCHNO>
+    &lt;TRANSCODE>LCSQ02&lt;/TRANSCODE>
+    &lt;TRANSDATETIME>2022-03-01 20:38:42&lt;/TRANSDATETIME>
+    &lt;RESPCODE>0&lt;/RESPCODE>
+    &lt;RESPMSG>指令接收成功&lt;/RESPMSG>
+  &lt;/pub>
+  &lt;resp>
+    &lt;list>
+      &lt;detail>
+        &lt;SRCSERIALNO>Felix2021040811005&lt;/SRCSERIALNO>
+        &lt;DEALSTATE>S&lt;/DEALSTATE>
+        &lt;DEALINFO>抽档成功&lt;/DEALINFO>
+      &lt;/detail>
+    &lt;/list>
+  &lt;/resp>
+&lt;/MBS></ns1:out></ns1:outSystemWSResponse></soap:Body></soap:Envelope>
+------=_Part_214_178959465.1646138322896--

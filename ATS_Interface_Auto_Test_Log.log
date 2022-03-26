@@ -1,0 +1,311 @@
+2022-03-01 20:36:33 conftest.py[line:13] INFO 调用'Del_Request_pre_and_Response.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:46] INFO 开始删除上次的报告文件：allure-results下面的数据文件......
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:49] INFO 已删除上次的报告文件：allure-results下面的数据文件！
+================================================================================
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:53] INFO 开始删除临时文件夹：request_pre和下面的数据......
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:56] INFO 已删除临时文件夹：request_pre和下面的数据！
+================================================================================
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:59] INFO 开始删除临时文件夹：response和下面的数据......
+2022-03-01 20:36:35 Del_Request_pre_and_Response.py[line:62] INFO 已删除临时文件夹：response和下面的数据！
+================================================================================
+2022-03-01 20:36:35 conftest.py[line:15] INFO 调用'Clean_Oracle_DB.py'
+-----------------------------------------------------------------------------------------------------------------------------------------
+2022-03-01 20:36:36 Clean_Oracle_DB.py[line:29] INFO 开始清除或修改Oracle环境的中间库数据......
+2022-03-01 20:36:36 Clean_Oracle_DB.py[line:40] INFO 已删除或修改Oracle环境的中间库数据！
+================================================================================
+2022-03-01 20:36:37 Clean_Oracle_DB.py[line:29] INFO 开始清除或修改Oracle环境的主库数据......
+2022-03-01 20:36:38 Clean_Oracle_DB.py[line:40] INFO 已删除或修改Oracle环境的主库数据！
+================================================================================
+2022-03-01 20:36:38 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_CPSQ01
+2022-03-01 20:36:38 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_CPSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALSTATE":"2"} 
+2022-03-01 20:36:39 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_CPSQ01测试通过
+================================================================================
+2022-03-01 20:36:39 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ01
+2022-03-01 20:36:39 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:36:40 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ01测试通过
+================================================================================
+2022-03-01 20:36:41 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ02
+2022-03-01 20:36:41 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:36:42 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ02测试通过
+================================================================================
+2022-03-01 20:36:43 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETSYNCJOURNALSTATE-PBQB01
+2022-03-01 20:36:43 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETSYNCJOURNALSTATE-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:43 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETSYNCJOURNALSTATE-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:44 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETRECINFO-PBQB01
+2022-03-01 20:36:44 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETRECINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:44 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETRECINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:44 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETELEDRAFTRECOPERATIONS-PBQB01
+2022-03-01 20:36:44 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETELEDRAFTRECOPERATIONS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:45 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETELEDRAFTRECOPERATIONS-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:45 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETELERECEIPTSINFO-PBQB01
+2022-03-01 20:36:45 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETELERECEIPTSINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:46 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETELERECEIPTSINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:46 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBUDGETITEMS-PBQB01
+2022-03-01 20:36:46 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBUDGETITEMS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:46 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBUDGETITEMS-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:47 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYTYPE-PBQB01
+2022-03-01 20:36:47 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYTYPE-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:47 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYTYPE-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:47 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKDAYBOOKS-PBQB01
+2022-03-01 20:36:47 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKDAYBOOKS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:48 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKDAYBOOKS-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:48 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKDAYBOOKS-01-PBQB01
+2022-03-01 20:36:48 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKDAYBOOKS-01-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:49 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKDAYBOOKS-01-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:49 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYINFOBATCHHISTORY-PBQB01
+2022-03-01 20:36:49 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYINFOBATCHHISTORY-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:49 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYINFOBATCHHISTORY-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:50 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBUDGETITEMSITUATION-PBQB01
+2022-03-01 20:36:50 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBUDGETITEMSITUATION-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:50 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBUDGETITEMSITUATION-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:51 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_FLSQ01
+2022-03-01 20:36:51 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_FLSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"处理成功"} 
+2022-03-01 20:36:56 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_FLSQ01测试通过
+================================================================================
+2022-03-01 20:36:57 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_FLSQ02
+2022-03-01 20:36:57 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_FLSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"处理成功"} 
+2022-03-01 20:36:57 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_FLSQ02测试通过
+================================================================================
+2022-03-01 20:36:57 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_FLSQ03
+2022-03-01 20:36:57 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_FLSQ03，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"处理成功"} 
+2022-03-01 20:36:58 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_FLSQ03测试通过
+================================================================================
+2022-03-01 20:36:59 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETFOREIGNPAYINFO-PBQB01
+2022-03-01 20:36:59 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETFOREIGNPAYINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:36:59 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETFOREIGNPAYINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:36:59 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_FSSS01
+2022-03-01 20:36:59 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_FSSS01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RECODE":"1","REMSG":"数据同步成功"} 
+2022-03-01 20:37:00 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_FSSS01测试通过
+================================================================================
+2022-03-01 20:37:00 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BCQB01
+2022-03-01 20:37:00 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BCQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"请求处理成功"} 
+2022-03-01 20:37:00 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BCQB01测试通过
+================================================================================
+2022-03-01 20:37:01 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ04
+2022-03-01 20:37:01 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ04，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:03 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ04测试通过
+================================================================================
+2022-03-01 20:37:04 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_CFSQ01
+2022-03-01 20:37:04 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_CFSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:05 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_CFSQ01测试通过
+================================================================================
+2022-03-01 20:37:05 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSS02
+2022-03-01 20:37:05 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSS02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:07 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSS02测试通过
+================================================================================
+2022-03-01 20:37:07 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_ACSQ01
+2022-03-01 20:37:07 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_ACSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"成功"} 
+2022-03-01 20:37:09 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_ACSQ01测试通过
+================================================================================
+2022-03-01 20:37:09 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_AGSQ01
+2022-03-01 20:37:09 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_AGSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"成功"} 
+2022-03-01 20:37:09 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_AGSQ01测试通过
+================================================================================
+2022-03-01 20:37:10 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETSTATEOFACCSBYORGCODE-PBQB01
+2022-03-01 20:37:10 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETSTATEOFACCSBYORGCODE-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:10 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETSTATEOFACCSBYORGCODE-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:11 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETSTATEOFACCS-PBQB01
+2022-03-01 20:37:11 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETSTATEOFACCS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:11 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETSTATEOFACCS-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:11 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_ECSQ01
+2022-03-01 20:37:11 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_ECSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAIMESSAGES":"认领成功"} 
+2022-03-01 20:37:12 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_ECSQ01测试通过
+================================================================================
+2022-03-01 20:37:12 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GLSQ01
+2022-03-01 20:37:12 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GLSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"处理成功"} 
+2022-03-01 20:37:13 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GLSQ01测试通过
+================================================================================
+2022-03-01 20:37:14 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_JNSQ02
+2022-03-01 20:37:14 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_JNSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DETAILRECODE":"1","DETAILREMSG":"处理成功"} 
+2022-03-01 20:37:15 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_JNSQ02测试通过
+================================================================================
+2022-03-01 20:37:15 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKSTRANSANDDAYBOOKS-PBQB01
+2022-03-01 20:37:15 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKSTRANSANDDAYBOOKS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:16 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKSTRANSANDDAYBOOKS-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:16 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETIVBALANCES-PBQB01
+2022-03-01 20:37:16 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETIVBALANCES-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:16 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETIVBALANCES-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:17 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BASQ01
+2022-03-01 20:37:17 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BASQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAISTATE":"2"} 
+2022-03-01 20:37:18 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BASQ01测试通过
+================================================================================
+2022-03-01 20:37:18 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETELEDRAFTIMAGEFORURL-PBQB01
+2022-03-01 20:37:18 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETELEDRAFTIMAGEFORURL-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:19 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETELEDRAFTIMAGEFORURL-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:19 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETELERECEIPTSINFOFORURL-PBQB01
+2022-03-01 20:37:19 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETELERECEIPTSINFOFORURL-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:20 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETELERECEIPTSINFOFORURL-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:20 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETELEHISIMAGEINFO-PBQB01
+2022-03-01 20:37:20 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETELEHISIMAGEINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:20 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETELEHISIMAGEINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:21 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_CMSQ01
+2022-03-01 20:37:21 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_CMSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALSTATE":"2","DEALMESSAGES":"抽档成功"} 
+2022-03-01 20:37:23 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_CMSQ01测试通过
+================================================================================
+2022-03-01 20:37:24 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ03-JN
+2022-03-01 20:37:24 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ03-JN，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:26 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ03-JN测试通过
+================================================================================
+2022-03-01 20:37:27 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ03-KJ
+2022-03-01 20:37:27 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ03-KJ，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:29 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ03-KJ测试通过
+================================================================================
+2022-03-01 20:37:30 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_PMSQ03-QQ
+2022-03-01 20:37:30 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_PMSQ03-QQ，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:33 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_PMSQ03-QQ测试通过
+================================================================================
+2022-03-01 20:37:33 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_LCSQ01
+2022-03-01 20:37:33 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_LCSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"CLAISTATE":"1"} 
+2022-03-01 20:37:35 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_LCSQ01测试通过
+================================================================================
+2022-03-01 20:37:35 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RDSQ04
+2022-03-01 20:37:35 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RDSQ04，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"抽档成功！"} 
+2022-03-01 20:37:38 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RDSQ04测试通过
+================================================================================
+2022-03-01 20:37:38 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RDSQ05
+2022-03-01 20:37:38 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RDSQ05，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"抽档成功"} 
+2022-03-01 20:37:38 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RDSQ05测试通过
+================================================================================
+2022-03-01 20:37:39 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_TPSB01
+2022-03-01 20:37:39 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_TPSB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:40 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_TPSB01测试通过
+================================================================================
+2022-03-01 20:37:41 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RRSQ01
+2022-03-01 20:37:41 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RRSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAIMESSAGES":"冲销成功"} 
+2022-03-01 20:37:41 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RRSQ01测试通过
+================================================================================
+2022-03-01 20:37:42 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BASQ03
+2022-03-01 20:37:42 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BASQ03，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAIMESSAGES":"认领组织：001000,认领金额：0.01"} 
+2022-03-01 20:37:44 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BASQ03测试通过
+================================================================================
+2022-03-01 20:37:44 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BASQ04
+2022-03-01 20:37:44 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BASQ04，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAIMESSAGES":"认领成功"} 
+2022-03-01 20:37:45 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BASQ04测试通过
+================================================================================
+2022-03-01 20:37:45 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BASQ02
+2022-03-01 20:37:45 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BASQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","CLAIMESSAGES":"认领成功"} 
+2022-03-01 20:37:45 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BASQ02测试通过
+================================================================================
+2022-03-01 20:37:46 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETFINANCIALPRODUCTSINFO-PBQB01
+2022-03-01 20:37:46 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETFINANCIALPRODUCTSINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:46 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETFINANCIALPRODUCTSINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:47 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RMSQ01
+2022-03-01 20:37:47 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RMSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功"} 
+2022-03-01 20:37:49 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RMSQ01测试通过
+================================================================================
+2022-03-01 20:37:50 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_AMSQ01-FK
+2022-03-01 20:37:50 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_AMSQ01-FK，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPMSG":"指令接收成功","DEALSTATE":"S","DEALINFO":"凭证号保存成功"} 
+2022-03-01 20:37:50 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_AMSQ01-FK测试通过
+================================================================================
+2022-03-01 20:37:51 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_AMSQ01-SK
+2022-03-01 20:37:51 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_AMSQ01-SK，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPMSG":"指令接收成功","DEALSTATE":"S","DEALINFO":"凭证号保存成功"} 
+2022-03-01 20:37:51 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_AMSQ01-SK测试通过
+================================================================================
+2022-03-01 20:37:52 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_JNSQ01
+2022-03-01 20:37:52 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_JNSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DETAILRECODE":"1","DETAILREMSG":"添加日记账到中间表成功，抽档到本地表成功"} 
+2022-03-01 20:37:53 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_JNSQ01测试通过
+================================================================================
+2022-03-01 20:37:54 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RDSQ01
+2022-03-01 20:37:54 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RDSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"REMSG":"批量同步成功！"} 
+2022-03-01 20:37:54 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RDSQ01测试通过
+================================================================================
+2022-03-01 20:37:55 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKINFO-PBQB01
+2022-03-01 20:37:55 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:55 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:56 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETAREAINFO-PBQB01
+2022-03-01 20:37:56 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETAREAINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:56 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETAREAINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:57 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKLOCATIONINFO-PBQB01
+2022-03-01 20:37:57 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKLOCATIONINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:57 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKLOCATIONINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:58 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKACCOUNTINFO-PBQB01
+2022-03-01 20:37:58 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKACCOUNTINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:58 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKACCOUNTINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:37:59 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYMENTSREFUNDSTATE-PBQB01
+2022-03-01 20:37:59 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYMENTSREFUNDSTATE-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:37:59 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYMENTSREFUNDSTATE-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:00 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKBALANCE-PBQB01
+2022-03-01 20:38:00 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKBALANCE-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:00 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKBALANCE-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:01 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETBANKACCOUNTSTRANS-PBQB01
+2022-03-01 20:38:01 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETBANKACCOUNTSTRANS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:01 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETBANKACCOUNTSTRANS-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:02 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETRECMENTS-PBQB01
+2022-03-01 20:38:02 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETRECMENTS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:03 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETRECMENTS-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:03 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYINFO-PBQB01
+2022-03-01 20:38:03 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:04 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYINFO-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:04 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYINFOBATCH-PBQB01
+2022-03-01 20:38:04 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYINFOBATCH-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:05 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYINFOBATCH-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:05 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETTPPTRANSACTIONS-PBQB01
+2022-03-01 20:38:05 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETTPPTRANSACTIONS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:06 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETTPPTRANSACTIONS-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:06 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_CBSQ01
+2022-03-01 20:38:06 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_CBSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RECODE":"1","REMSG":"批量同步成功！"} 
+2022-03-01 20:38:07 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_CBSQ01测试通过
+================================================================================
+2022-03-01 20:38:07 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETPAYMENTS-PBQB01
+2022-03-01 20:38:07 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETPAYMENTS-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:08 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETPAYMENTS-PBQB01测试通过
+================================================================================
+2022-03-01 20:38:09 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BUSQ02
+2022-03-01 20:38:09 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BUSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"处理成功"} 
+2022-03-01 20:38:10 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BUSQ02测试通过
+================================================================================
+2022-03-01 20:38:11 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_BUSQ01
+2022-03-01 20:38:11 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_BUSQ01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"处理成功"} 
+2022-03-01 20:38:12 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_BUSQ01测试通过
+================================================================================
+2022-03-01 20:38:12 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_LCSQ02
+2022-03-01 20:38:12 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_LCSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"指令接收成功","DEALINFO":"抽档成功"} 
+2022-03-01 20:38:15 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_LCSQ02测试通过
+================================================================================
+2022-03-01 20:38:15 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_LCSQ03
+2022-03-01 20:38:15 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_LCSQ03，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"DEALSTATE":"S","DEALINFO":"抽档成功"} 
+2022-03-01 20:38:15 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_LCSQ03测试通过
+================================================================================
+2022-03-01 20:38:16 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RDSQ02
+2022-03-01 20:38:16 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RDSQ02，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"CLAISTATE":"1","CLAIMESSAGES":"认领成功"} 
+2022-03-01 20:38:17 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RDSQ02测试通过
+================================================================================
+2022-03-01 20:38:17 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_RDSQ03
+2022-03-01 20:38:17 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_RDSQ03，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"CLAISTATE":"1","CLAIMESSAGES":"认领成功"} 
+2022-03-01 20:38:17 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_RDSQ03测试通过
+================================================================================
+2022-03-01 20:38:18 Test_interface_auto_test_xml_Public.py[line:39] INFO APIName：body_GETRECINFOBATCH-PBQB01
+2022-03-01 20:38:18 Test_interface_auto_test_xml_Public.py[line:69] INFO 接口名称：body_GETRECINFOBATCH-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+2022-03-01 20:38:18 Test_interface_auto_test_xml_Public.py[line:255] INFO 报文body_GETRECINFOBATCH-PBQB01测试通过
+================================================================================

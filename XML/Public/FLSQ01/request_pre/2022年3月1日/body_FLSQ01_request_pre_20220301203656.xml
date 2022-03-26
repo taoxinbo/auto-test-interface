@@ -1,0 +1,73 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+    <pub>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>OA</SRCBATCHNO>
+        <TRANSCODE>FLSQ01</TRANSCODE>
+        <TRANSDATETIME>2021-01-04 17:27:46,571</TRANSDATETIME>
+        <MD5>MD5</MD5>
+        <TENANTID>10001</TENANTID>
+    </pub>
+    <req>
+        <list>
+            <detail>
+                <SRCSERIALNO>txbFLSQ01</SRCSERIALNO>
+                <ORGCODE>001000</ORGCODE>
+                <CONTRACTCODE>testFLSQ01</CONTRACTCODE>
+                <FINANCEPRODUCTCODE>103</FINANCEPRODUCTCODE>
+                <DEPTCODE>bm01</DEPTCODE>
+                <LOANPROPERTY>1</LOANPROPERTY>
+                <FINANCINGCATEGORY>04</FINANCINGCATEGORY>
+                <BANKCODE>BOC</BANKCODE>
+                <CURRENCYCODE>CNY</CURRENCYCODE>
+                <REPAYMENTDATE>1</REPAYMENTDATE>
+                <INTERESTSETTLEMENTDATE>1</INTERESTSETTLEMENTDATE>
+                <LOANAMOUNT>19850820</LOANAMOUNT>
+                <EXCHANGERATE>1</EXCHANGERATE>
+                <BEGINDATE>2021-01-01</BEGINDATE>
+                <ENDDATE>2025-01-01</ENDDATE>
+                <INTERESTSTARTDATE>2021-02-01</INTERESTSTARTDATE>
+                <CREDITRATE>1</CREDITRATE>
+                <CREDITEXCHANGERATE>1</CREDITEXCHANGERATE>
+                <REPAYMODE>4</REPAYMODE>
+                <INTERESTMODE>1</INTERESTMODE>
+                <INTERESTRATESCHEMECODE>DKHTGDLV</INTERESTRATESCHEMECODE>
+                <INTERESTRATEFLOAT>0</INTERESTRATEFLOAT>
+                <INTERESTRATE>46</INTERESTRATE>
+                <INITINTERESTSTARTDATE>2021-02-01</INITINTERESTSTARTDATE>
+                <INITREPAYEDAMOUNT>500000</INITREPAYEDAMOUNT>
+                <CREDITCODE/>
+                <EXTFIELD1>扩展字段1</EXTFIELD1>
+                <EXTFIELD2>扩展字段2</EXTFIELD2>
+                <EXTFIELD3>扩展字段3</EXTFIELD3>
+                <EXTFIELD4>2</EXTFIELD4>
+                <EXTFIELD5>扩展字段5地方</EXTFIELD5>
+                <EXTFIELD6>扩展字段6阿大使馆</EXTFIELD6>
+                <EXTFIELD7>扩展字段7</EXTFIELD7>
+                <EXTFIELD8>扩展字段8</EXTFIELD8>
+                <EXTFIELD9>扩展字段9</EXTFIELD9>
+                <EXTFIELD10>扩展字段10</EXTFIELD10>
+                <EXTFIELD11>扩展字段11</EXTFIELD11>
+                <EXTFIELD12>扩展字段12</EXTFIELD12>
+                <EXTFIELD13>扩展字段13</EXTFIELD13>
+                <EXTFIELD14>扩展字段14</EXTFIELD14>
+                <EXTFIELD15>扩展字段15</EXTFIELD15>
+                <EXTFIELD16>扩展字段16</EXTFIELD16>
+                <EXTFIELD17>扩展字段17</EXTFIELD17>
+                <EXTFIELD18>扩展字段18</EXTFIELD18>
+                <EXTFIELD19>扩展字段19</EXTFIELD19>
+                <EXTFIELD20>扩展字段20vgff</EXTFIELD20>
+            </detail>
+        </list>
+    </req>
+</MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

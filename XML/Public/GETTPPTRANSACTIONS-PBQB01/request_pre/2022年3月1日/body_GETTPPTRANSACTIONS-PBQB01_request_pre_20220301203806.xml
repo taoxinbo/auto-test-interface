@@ -1,0 +1,35 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[
+<MBS>
+   <pub>
+     <SRCOUTSYSTEMCODE>NC</SRCOUTSYSTEMCODE>
+     <SRCBATCHNO>errtest001</SRCBATCHNO>
+     <TRANSCODE>PBQB01</TRANSCODE>
+     <TRANSDATETIME>2021-04-14 08:20:10</TRANSDATETIME>
+     <MD5>158cfd893b0598f078f7efa4e6b11696</MD5>
+    </pub>
+    <req>
+    <head>
+    <COMMANDCODE>GETTPPTRANSACTIONS</COMMANDCODE>
+          <PAGEINDEX>1</PAGEINDEX>
+    <PAGESIZE>100</PAGESIZE>
+    </head>
+        <searchconditions>
+        <ORGCODE>001000</ORGCODE>
+        <MERCHANTNO></MERCHANTNO>
+        <POSSCODE></POSSCODE>
+        <MONEYWAY></MONEYWAY>
+        <TRANSDATESTART>2021-04-14</TRANSDATESTART>
+        <TRANSDATEEND>2021-04-14</TRANSDATEEND>
+       </searchconditions>
+    </req>
+  </MBS> 
+    ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

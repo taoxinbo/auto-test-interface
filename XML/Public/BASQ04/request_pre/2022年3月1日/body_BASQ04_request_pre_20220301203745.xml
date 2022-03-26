@@ -1,0 +1,55 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[ 
+         <MBS>
+  <pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>136</SRCBATCHNO>
+    <TRANSCODE>BASQ04</TRANSCODE>
+    <TRANSDATETIME>2020-04-27 20:20:20</TRANSDATETIME>
+    <MD5>123456</MD5>
+  </pub>
+  <req>
+    <list>
+      <detail>
+        <CLAIURID>6a56ddb817714c71b381f1740e8851e1</CLAIURID>
+        <BANKACCOUNTNUMBER>9090909090</BANKACCOUNTNUMBER>
+        <CHARGEID>A01</CHARGEID>
+        <PAYTYPECODE>103</PAYTYPECODE>
+        <COSTS>1</COSTS>
+        <BUDGETITEMCODE>0102</BUDGETITEMCODE>
+        <ORGCODE>001000</ORGCODE>
+        <DEPTCODE></DEPTCODE>
+        <CAPITALCATEGORYCODE>z01</CAPITALCATEGORYCODE>
+        <CASHFLOWITEMCODE>001</CASHFLOWITEMCODE>
+        <paylist>
+          <paydetail>
+            <DETAILORGCODE>001000</DETAILORGCODE>
+            <DETAILBUDGETITEMDETAILCODE>0102</DETAILBUDGETITEMDETAILCODE>
+            <DETAILAMOUNT>130</DETAILAMOUNT>
+            <DETAILDEPTCODE></DETAILDEPTCODE>
+            <DETAILCAPITALCATEGORYCODE>z01</DETAILCAPITALCATEGORYCODE>
+            <DETAILCASHFLOWITEMCODE>001</DETAILCASHFLOWITEMCODE>
+          </paydetail>
+          <paydetail>
+            <DETAILORGCODE>001000</DETAILORGCODE>
+            <DETAILBUDGETITEMDETAILCODE>0102</DETAILBUDGETITEMDETAILCODE>
+            <DETAILAMOUNT>300.02</DETAILAMOUNT>
+            <DETAILDEPTCODE></DETAILDEPTCODE>
+            <DETAILCAPITALCATEGORYCODE>z01</DETAILCAPITALCATEGORYCODE>
+            <DETAILCASHFLOWITEMCODE>001</DETAILCASHFLOWITEMCODE>
+          </paydetail>
+        </paylist>
+      </detail>
+     
+    </list>
+  </req>
+</MBS>
+         ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

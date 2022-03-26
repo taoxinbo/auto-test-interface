@@ -1,0 +1,32 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+  <MBS>
+   <pub>
+     <SRCOUTSYSTEMCODE>NC</SRCOUTSYSTEMCODE>
+     <SRCBATCHNO>sandy20190319</SRCBATCHNO>
+     <TRANSCODE>PBQB01</TRANSCODE>
+     <TRANSDATETIME>2019-03-19 08:20:10</TRANSDATETIME>
+     <MD5>158cfd893b0598f078f7efa4e6b11696</MD5>
+    </pub>
+    <req>
+    <head>
+        <COMMANDCODE>GETBANKSTRANSANDDAYBOOKS</COMMANDCODE>
+        <PAGEINDEX>1</PAGEINDEX>
+    <PAGESIZE>100</PAGESIZE>
+    </head>
+       <searchconditions>
+       <TRADEDATESTART>2021-04-12</TRADEDATESTART>
+       <TRADEDATEEND>2021-04-13</TRADEDATEEND>
+       </searchconditions>
+    </req>
+  </MBS>]]>
+        </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

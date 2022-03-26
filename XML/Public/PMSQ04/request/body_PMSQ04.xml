@@ -1,0 +1,135 @@
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>        
+
+<![CDATA[
+<?xml version="1.0" encoding="utf-8"?>
+  <MBS>
+    <pub>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>test</SRCBATCHNO>
+        <TRANSCODE>PMSQ04</TRANSCODE>
+         <TRANSDATETIME>2020-09-28 12:57:39</TRANSDATETIME>
+        <MD5>123456</MD5>
+    </pub>
+    <req>
+        <head>
+            <ALLAMOUNT>300.00</ALLAMOUNT>
+            <ALLCOUNT>1</ALLCOUNT>
+        </head>
+        <list>
+            <detail>
+                <SRCSERIALNO>txb</SRCSERIALNO>
+                <SRCNOTECODE>KJ-nancy0412-6</SRCNOTECODE>
+                <ORGCODE>001000</ORGCODE>
+                <APPLYORGCODE>001000</APPLYORGCODE>
+                <DEPTCODE>bm01</DEPTCODE>
+                <PAYDATE>2021-4-12</PAYDATE>
+                <PAYTYPECODE>103</PAYTYPECODE>
+                <SETTLEMENTMODECODE>101</SETTLEMENTMODECODE>
+                <CAPITALCATEGORYCODE></CAPITALCATEGORYCODE>
+                <BUDGETITEMCODE></BUDGETITEMCODE>
+                <ABSTRACTS>摘要</ABSTRACTS>
+                <ISURGENT>0</ISURGENT>
+                <PURPOSE>sandy付款</PURPOSE>
+                <CHECKCODE>附言对账码</CHECKCODE>
+                <OFFICEPURPOSE></OFFICEPURPOSE>
+                <MEMO></MEMO>
+                <OURORGCODE>001000</OURORGCODE>
+                <OURBANKACCOUNTNUMBER>1111111111</OURBANKACCOUNTNUMBER>
+                <OURCURCODE>USD</OURCURCODE>
+                <OURAMOUNT>300.00</OURAMOUNT>
+                <OPPOBJECTNAME>境外美元</OPPOBJECTNAME>
+                <OPPOBJECTCODE>000005</OPPOBJECTCODE>
+                <OPPCOUNTERPARTYCATEGORYCODE></OPPCOUNTERPARTYCATEGORYCODE>
+                <OPPBANKCODE></OPPBANKCODE>
+                <OPPBANKLOCATIONCODE>514342098013</OPPBANKLOCATIONCODE>
+                <OPPBANKLOCATIONS>（韩国地区）中国银行股份有限公司九老分行</OPPBANKLOCATIONS>
+                <OPPBANKACCOUNTNUMBER>657868676765756</OPPBANKACCOUNTNUMBER>
+                <OPPBANKACCOUNTNAME>境外美元</OPPBANKACCOUNTNAME>
+                <OPPBANKAREACODE></OPPBANKAREACODE>
+                <OPPDIRECTCURCODE>USD</OPPDIRECTCURCODE>
+                <CONTACTS>联系人</CONTACTS>
+                <OPPCELLPHONE>18658860000</OPPCELLPHONE>
+                <OPPPRIVATEFLAG>1</OPPPRIVATEFLAG>
+                <OPPCERTTYPE>0</OPPCERTTYPE><!-- 收方证件类型-->
+                <OPPCERTNUMBER>123</OPPCERTNUMBER><!-- 收方证件号-->
+                <OPPEMAILADDRESS>11@qq.com</OPPEMAILADDRESS>
+                <OPPCARDTYPE>2</OPPCARDTYPE><!-- 收方卡折类型-->
+                <OURREGORGCODE>001000</OURREGORGCODE><!-- 组织机构代码-->
+                <OURORGTYPE>2</OURORGTYPE><!--机构类型：1-中资机构,2-外资机构 -->
+                <OURADDRESS>杭州</OURADDRESS><!--付方地址 -->
+                <CASHBANKACCOUNTNUMBER>1111111111</CASHBANKACCOUNTNUMBER><!--现汇账户账号 -->
+                <CASHAMOUNT>200.00</CASHAMOUNT><!--现汇金额 --> 
+                <PURCHASEBANKACCOUNTNUMBER>00100-1</PURCHASEBANKACCOUNTNUMBER><!-- 购汇账户账号-->
+                <PURCHASEAMOUNT>445.45</PURCHASEAMOUNT><!-- 购汇金额-->
+                <OTHERBANKACCOUNTNUMBER></OTHERBANKACCOUNTNUMBER><!--其他账户账号 -->
+                <OTHERAMOUNT>0</OTHERAMOUNT><!--其他金额 -->
+                <OPPRESIDENTTYPE>CNI</OPPRESIDENTTYPE><!-- 收方类型：CNI：境内非居民个人，CNO：境内非居民机构，DEI：居民个人，DEO：居民机构，FIN：境外个人，FOR：境外机构-->
+                <OPPCOUNTRYTYPE>Z00</OPPCOUNTRYTYPE><!-- 收方常驻国家性质|Z00-一般贸易区Z01-保税区Z02-加工区Z03-钻石交易区-->
+                <OPPADDRESS>杭州</OPPADDRESS><!-- 收方地址-->
+                <OPPBRANCHSWIFTCODE></OPPBRANCHSWIFTCODE><!-- 收方SWIFT代码-->
+                <OPPBRANCHSWIFTNAME></OPPBRANCHSWIFTNAME><!--收方SWIFT名称 -->
+                <OPPRESIDENTCOUNTRYID></OPPRESIDENTCOUNTRYID><!--收方常驻国家 -->
+                <OPPRESIDENTCOUNTRYCODE>US</OPPRESIDENTCOUNTRYCODE><!--收方银行常驻国家代码 -->
+                <OPPRESIDENTCOUNTRYNAME>美国</OPPRESIDENTCOUNTRYNAME><!--收方银行常驻国家名称 -->
+                <OPPAGENTBANKID></OPPAGENTBANKID><!-- 收方银行之代理行银行ID-->
+                <OPPAGENTAREAID></OPPAGENTAREAID><!-- 收方银行之代理行银行区域ID-->
+                <OPPAGENTBANKLOCATIONID>402372001469</OPPAGENTBANKLOCATIONID><!--收方银行之代理行 -->
+                <OPPAGENTBRANCHSWIFTNAME></OPPAGENTBRANCHSWIFTNAME><!--收方银行之代理行名称 -->
+                <OPPAGENTBRANCHSWIFTCODE></OPPAGENTBRANCHSWIFTCODE><!--收方银行之代理行SWIFTCODE -->
+                <OPPAGENTACCOUNTNUMBER>123123</OPPAGENTACCOUNTNUMBER><!-- 收方银行在其代理行账号-->
+                <INTERMEDIATECOSTMODE>SHA</INTERMEDIATECOSTMODE><!-- 国内外费用承担：OUR：汇款人，BEN：收款人，SHA：共同-->
+                <PAYMENTMETHOD>A</PAYMENTMETHOD><!-- 付款方式：A：预付货款，P：货到付款，R：退款，O：其他-->
+                <ISPAYMENTFORBONDEDGOOD>1</ISPAYMENTFORBONDEDGOOD><!--是否保税货物项下付款：0：否；1：是 -->
+                <PAYMENTPROPERTY>X</PAYMENTPROPERTY><!--付汇性质：X：保税区，E：出口加工区，D：钻石交易所，A：其他特殊经济区域，M：深加工结转，O：其他 -->
+                <BUSINESSNUMBER></BUSINESSNUMBER><!-- 外汇局批件号/备案表号/业务编号-->
+                <TRANSACTIONCODE1>121010</TRANSACTIONCODE1><!--交易编码1 -->
+                <CURRENCYID1></CURRENCYID1><!-- 相应币种1-->
+                <CURRENCYCODE1></CURRENCYCODE1><!--相应币种编码1 -->
+                <POSTSCRIPT1>51</POSTSCRIPT1><!-- 交易附言1-->
+                <AMOUNT1>0.00</AMOUNT1><!--相应金额1 -->
+                <TRANSACTIONCODE2></TRANSACTIONCODE2><!-- 交易编码2-->
+                <CURRENCYID2></CURRENCYID2><!-- 相应币种2-->
+                <CURRENCYCODE2></CURRENCYCODE2><!--相应币种编码2 -->
+                <POSTSCRIPT2>31</POSTSCRIPT2><!-- 交易附言2-->
+                <AMOUNT2>0</AMOUNT2><!--相应金额2 -->
+                <CONTRACTCODE>414</CONTRACTCODE><!--合同号 -->
+                <INVOICECODE>1314</INVOICECODE><!--发票号 -->
+                <FEEBANKACCOUNTID></FEEBANKACCOUNTID><!--手续费账户 -->
+                <FEEBANKACCOUNTNUMBER></FEEBANKACCOUNTNUMBER><!--手续费账号 -->
+                <CONTACTPERSON>141</CONTACTPERSON><!--联系人 -->
+                <CONTACTNUMBER>31</CONTACTNUMBER><!--联系电话 -->
+                <FUNDSPROPERTY>2</FUNDSPROPERTY><!--款项性质：0：经常项目贸易，1：经常项目非贸易，2：资本项目，3：代理进口 -->
+                <ISPAYMENTFORIMPORTITEM>0</ISPAYMENTFORIMPORTITEM><!--进口核销项下付款 -->
+                <ISDOMESTIC>1</ISDOMESTIC><!-- 收方境内外标志-->
+                <EXCHANGETYPECODE></EXCHANGETYPECODE><!--结购汇类型代码 -->
+                <TRANSACTIONCODE></TRANSACTIONCODE><!-- 交易编码-->
+                <EXCHANGECATEGORY></EXCHANGECATEGORY><!--结购汇类别：501：贸易项下购汇，502：非贸易项下购汇，503：资本项下购汇，601：贸易项下结汇，602：非贸易项下结汇，603：资本项下结汇 -->
+                <CREATEDBY>sandy</CREATEDBY><!-- 创建人-->
+                <DESCRIPTION>货物采购</DESCRIPTION><!--描述 -->
+                <OPPBRANCHRTGSCODE></OPPBRANCHRTGSCODE><!-- 收方RTGSCODE代码-->
+                <OPPBRANCHRTGSNAME></OPPBRANCHRTGSNAME><!--收方RTGSNAME名称 -->
+                <IBAN></IBAN>
+                <CASHFLOWITEMCODE>0011</CASHFLOWITEMCODE><!--现金流量项目代码 -->
+                <PROJECTCODE>DT</PROJECTCODE><!--工程项目代码 -->
+                <PAYPRIORITYLEVEL></PAYPRIORITYLEVEL><!--付款优先级 -->
+                <ISDECLARE></ISDECLARE>
+                <REALEXCHANGERATE></REALEXCHANGERATE>
+                <SETTLEBANKEXCHANGERATE></SETTLEBANKEXCHANGERATE>
+                <PBCEXCHANGERATE></PBCEXCHANGERATE>
+                <VOUCHERTYPE></VOUCHERTYPE>
+                <SECTIONCODE>001000</SECTIONCODE>
+            </detail>
+        </list>
+    </req>
+</MBS>
+ ]]>
+        </out:in0>
+         
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,50 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[ 
+    <MBS>
+<pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>txbESTPSB01</SRCBATCHNO>
+    <TRANSCODE>ESTPSB01</TRANSCODE>
+    <TRANSDATETIME>2020-04-27 11:20:20</TRANSDATETIME>
+    <MD5>158cfd893b0598f078f7efa4e6b11696</MD5>
+</pub>
+<req>
+    <list>
+        <detail>
+            <SRCNOTECODE>testESTPSB01</SRCNOTECODE>
+            <APPLYORGCODE>001004</APPLYORGCODE>
+            <PAYDATE>2020-05-27</PAYDATE>
+            <STRATTIME>2020-05-27 20:20:20</STRATTIME>
+            <EXPIRETIME>2020-05-27  20:20:20</EXPIRETIME>
+            <OURCURCODE>CNY</OURCURCODE>
+            <OURAMOUNT>432.32</OURAMOUNT>
+            <OPPPRIVATEFLAG>2</OPPPRIVATEFLAG>
+            <MERCHOULDNO>898319942150072</MERCHOULDNO>
+            <PURPOSE>代理商的反馈</PURPOSE>
+            <LIMITCREDITPAY>0</LIMITCREDITPAY>
+            <TERMINALID>738971983</TERMINALID>
+            <DEVICEID>31355</DEVICEID>
+            <CONTACTNAME>卡卡</CONTACTNAME>
+            <CONTACTMOBILE>18658861399</CONTACTMOBILE>
+            <CONTACTMAIL>S@fingard.com.cn</CONTACTMAIL>
+            <GOODSID>FZ01</GOODSID>
+            <GOODSNAME>服装</GOODSNAME>
+            <GOODSNUM>2</GOODSNUM>
+            <GOODSDESC>供货方</GOODSDESC>
+            <PAYREQSERIALNO>20190128192040008776340073</PAYREQSERIALNO>
+            <CAPITALCATEGORYCODE></CAPITALCATEGORYCODE>
+            <BUDGETITEMCODE></BUDGETITEMCODE>
+            <CASHFLOWITEMCODE></CASHFLOWITEMCODE>
+        </detail>
+    </list>
+</req>
+</MBS>
+         ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

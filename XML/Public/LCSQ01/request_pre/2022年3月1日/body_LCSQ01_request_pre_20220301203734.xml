@@ -1,0 +1,64 @@
+﻿<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+  <pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>txbLCSQ01_20220301203733</SRCBATCHNO>
+    <TRANSCODE>LCSQ01</TRANSCODE>
+    <TRANSDATETIME>2019-06-24 10:00:00</TRANSDATETIME>
+    <MD5>123456</MD5>
+  </pub>
+  <req>
+    <head>
+    </head>
+    <list>
+      <detail>
+        <INSSUEAPPLYNUM>testLCSQ01_20220301203733</INSSUEAPPLYNUM>
+        <APPLICANT>sophie</APPLICANT>
+        <APPLYDATE>2021-04-15</APPLYDATE>
+        <DEPTCODE>bm01</DEPTCODE>
+        <ORGCODE>001000</ORGCODE>
+        <AMOUNT>500.00</AMOUNT>
+        <CURRENCY>CNY</CURRENCY>
+        <ISSUINGBANK>BOC</ISSUINGBANK>
+        <BENEFICIARY>sunj</BENEFICIARY>
+        <BENEFICIARYCOUNTRY>中国</BENEFICIARYCOUNTRY>
+        <OPENER>保融</OPENER>
+        <ADVISINGBANK></ADVISINGBANK>
+        <ISFORWARDS>1</ISFORWARDS>
+        <FORWARDDAYS>0</FORWARDDAYS>
+        <EXCHANGERATE>1</EXCHANGERATE>
+        <LOCALCURRENCYAMOUNT>500.00</LOCALCURRENCYAMOUNT>
+        <PROJECTCODE></PROJECTCODE>
+        <DESCRIPTION></DESCRIPTION>
+        <CREDITPROPORTION>2</CREDITPROPORTION>
+       <trade>
+        <CONTRACTCODE>JKXYZ001</CONTRACTCODE>
+        <CONTRACTAMOUNT>500.00</CONTRACTAMOUNT>
+        <QUANTITY>1</QUANTITY>
+        <TRADEREMARK>000001</TRADEREMARK>
+        <OVERFLOWRATIO></OVERFLOWRATIO>
+        <DECLARATIONNO></DECLARATIONNO>
+        <DECLARATIONAMOUNT></DECLARATIONAMOUNT>
+        <EXPECTPAYDATE></EXPECTPAYDATE>
+        <ISIRREVOCABLE></ISIRREVOCABLE>
+        <ISTRANSFERABLE></ISTRANSFERABLE>
+        <ISPARTIALSHIPMENT></ISPARTIALSHIPMENT>
+        <ISTRANSHIPMENT></ISTRANSHIPMENT>
+       </trade>
+       <files>
+        <file>
+        <FILENAME>CMBC.pdf</FILENAME>
+        <FILEPATH>/10/</FILEPATH>
+        </file>
+       </files>
+      </detail>
+    </list>
+  </req>
+</MBS> ]]></out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

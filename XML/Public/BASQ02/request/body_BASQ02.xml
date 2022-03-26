@@ -1,0 +1,31 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[ 
+<MBS>
+            <pub>
+                <SRCOUTSYSTEMCODE>ZAFH</SRCOUTSYSTEMCODE>
+                <SRCBATCHNO>2020042802</SRCBATCHNO> 
+                <TRANSCODE>BASQ02</TRANSCODE>
+                <TRANSDATETIME>2020-04-27 10:20:10</TRANSDATETIME>
+                <MD5>123456</MD5>
+            </pub>
+            <req>
+                <list>
+                    <detail>
+                    <CLAIURID>149624a4d5924f0e837b0237ea87d9e4</CLAIURID>
+                    <BANKACCOUNTNUMBER>9090909090</BANKACCOUNTNUMBER>
+                    <CHARGEID>RLH11</CHARGEID>
+                    <PAYTYPECODE>201</PAYTYPECODE>
+                    <COSTS>0</COSTS>
+                    </detail>
+                </list>
+            </req>
+        </MBS>
+         ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

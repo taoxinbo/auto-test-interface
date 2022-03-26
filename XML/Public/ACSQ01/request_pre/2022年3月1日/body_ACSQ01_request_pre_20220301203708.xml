@@ -1,0 +1,44 @@
+   <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+      <soapenv:Header/>
+      <soapenv:Body>
+         <out:outSystemWS>
+            <out:in0>
+            <![CDATA[
+       <MBS>
+           <pub>
+           <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+           <SRCBATCHNO>txb_20220301203707</SRCBATCHNO>
+           <TRANSCODE>ACSQ01</TRANSCODE>
+           <TRANSDATETIME>2021-04-09 17:20:10</TRANSDATETIME>
+           <MD5>123456</MD5>
+           </pub>
+       <req>
+           <list>
+               <detail>
+           <SRCSERIALNO>test_20220301203707</SRCSERIALNO>
+           <ORGCODE>001000</ORGCODE>
+           <ORGNAME>亚唐科技</ORGNAME>
+           <BANKCODE>BOC</BANKCODE>
+           <BANKNAME>中国银行</BANKNAME>
+           <BANKLOCATIONCODE>104222000965</BANKLOCATIONCODE>
+           <BANKLOCATIONNAME>中国银行股份有限公司大连泡崖街支行</BANKLOCATIONNAME>
+           <ACCOUNTNUMBER>zy测试账户1</ACCOUNTNUMBER>
+           <ACCOUNTTYPE>01</ACCOUNTTYPE>
+           <ISBANKDIRECT>0</ISBANKDIRECT>
+           <DEPOSITTYPE></DEPOSITTYPE>
+           <CURRENCY>CNY</CURRENCY>
+           <CREATEDBY>test</CREATEDBY>
+           <CREATEDON>2021-04-09</CREATEDON>
+           <APPLYTYPE>1</APPLYTYPE>
+           <APPLYREASON>申请开户接口测试</APPLYREASON>
+           <!-- <PREACCOUNTNUMBER>1</PREACCOUNTNUMBER> -->
+           <!-- <PRECURRENCY>104</PRECURRENCY> -->
+               </detail>
+           </list>
+       </req>
+   </MBS>
+       ]]>
+            </out:in0>
+         </out:outSystemWS>
+      </soapenv:Body>
+   </soapenv:Envelope>

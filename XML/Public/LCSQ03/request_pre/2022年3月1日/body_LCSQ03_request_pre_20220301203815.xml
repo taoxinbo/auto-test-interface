@@ -1,0 +1,38 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<MBS>
+    <pub>
+        <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>Felix20210408110045</SRCBATCHNO> 
+        <TRANSCODE>LCSQ03</TRANSCODE>
+        <TRANSDATETIME>2019-09-10 16:41:32</TRANSDATETIME>
+        <MD5>123456</MD5>
+    </pub>
+    <req>
+        <list>
+            <detail>
+                <SRCSERIALNO>Felix2021040811005</SRCSERIALNO>
+                <CREDITSRCSERIALNO>Felix2021040811005</CREDITSRCSERIALNO>
+                <ORGCODE>001000</ORGCODE>
+                <CREDITNUMBER>Felix2021040811005</CREDITNUMBER>
+                <CREDITTYPECODE>105</CREDITTYPECODE>
+                <ISSUEAMOUNT>4.00</ISSUEAMOUNT>
+                <CURRENCYCODE>CNY</CURRENCYCODE>
+                <ISSUEDATE>2021-02-01</ISSUEDATE>
+                <EXPIRYDATE>2022-02-27</EXPIRYDATE>
+                <OPERATEDATE>2021-03-01</OPERATEDATE>
+                <AMOUNT>2</AMOUNT>
+                <OPERATEFLAG>3</OPERATEFLAG>
+            </detail>
+        </list>
+    </req>
+</MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

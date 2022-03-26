@@ -1,0 +1,48 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+ <MBS>
+            <pub>
+                <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+                <SRCBATCHNO>mars_20210420004</SRCBATCHNO> 
+                <TRANSCODE>JNSQ01</TRANSCODE>
+                <TRANSDATETIME>2021-4-20 10:20:10</TRANSDATETIME>
+                <MD5>123456</MD5>
+            </pub>
+            <req>
+            <list>
+            <detail>
+                <URID>txbJNSQ01_20220301203752</URID>
+                <ORGID>001000</ORGID>
+                <BANKID>BOC</BANKID>
+                <ACCOUNTID>1010101010</ACCOUNTID>
+                <ACCOUNTDATE>2021-4-20</ACCOUNTDATE>
+                <CURRENCYID>CNY</CURRENCYID>
+                <MONEYWAY>1</MONEYWAY>
+                <AMOUNT>415.00</AMOUNT>
+                <ORIGINNOTE>ZJFK_001000_202104_00001014</ORIGINNOTE>
+                <CREATEDBY>mars</CREATEDBY>
+                <CREATEDON>2021-4-20 11:20:10</CREATEDON>
+                <LASTMODIFIEDBY>mars</LASTMODIFIEDBY>
+                <LASTMODIFIEDON>2021-4-20 11:20:10</LASTMODIFIEDON>
+                <OPPNAME>王五</OPPNAME>
+                <CHECKCODE>MARS001</CHECKCODE>
+                <FINVOUCHERCODE></FINVOUCHERCODE>
+                <PURPOSE>买买买：购物，投资，教育，顶顶顶顶顶顶顶顶顶顶</PURPOSE>
+                <EXTFIELD1>GSPZ0081</EXTFIELD1>
+                <EXTFIELD2>LRZX0081</EXTFIELD2>
+                <EXTFIELD3>熊猫</EXTFIELD3>
+                <EXTFIELD4>2021-04-20</EXTFIELD4>
+                <EXTFIELD5>1</EXTFIELD5>
+            </detail>
+            </list>
+            </req>
+        </MBS>
+         ]]>
+</out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

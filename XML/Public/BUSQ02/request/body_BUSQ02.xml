@@ -1,0 +1,44 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[
+   <MBS> 
+  <pub> 
+    <SRCOUTSYSTEMCODE>A3</SRCOUTSYSTEMCODE>  
+    <SRCBATCHNO>txbBUSQ02</SRCBATCHNO>  
+    <TRANSCODE>BUSQ02</TRANSCODE>  
+    <TRANSDATETIME>2021-04-13 14:05:18</TRANSDATETIME>  
+    <MD5>12345</MD5> 
+  </pub>  
+  <req> 
+    <list> 
+      <detail> 
+        <SRCOUTSYSTEMCODE>A3</SRCOUTSYSTEMCODE>  
+        <SRCNOTECODE>txbBUSQ02</SRCNOTECODE>  
+        <BUDGETCODE>ZJJH_001000_test004</BUDGETCODE>  
+        <DESCRIPTION>200</DESCRIPTION>  
+        <itemlist> 
+          <itemdetail> 
+            <BUDGETITEMCODE>JH0101</BUDGETITEMCODE>  
+            <CURRENCYCODE>CNY</CURRENCYCODE>  
+            <BUDGETYEAR>2021</BUDGETYEAR>  
+            <BUDGETSEASON>0</BUDGETSEASON>  
+            <BUDGETMONTH>4</BUDGETMONTH>  
+            <BUDGETPERIODPART>0</BUDGETPERIODPART>  
+            <BUDGETWEEK>0</BUDGETWEEK>  
+            <BUDGETDAY>0</BUDGETDAY>  
+            <ADJUSTAMOUNT>200</ADJUSTAMOUNT>  
+            <DESCRIPTION></DESCRIPTION> 
+          </itemdetail>  
+        </itemlist> 
+      </detail> 
+    </list> 
+  </req> 
+</MBS>
+    ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

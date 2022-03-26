@@ -1,0 +1,4 @@
+INFO     root:Test_interface_auto_test_xml_Public.py:39 APIName：body_GETBANKLOCATIONINFO-PBQB01
+INFO     root:Test_interface_auto_test_xml_Public.py:69 接口名称：body_GETBANKLOCATIONINFO-PBQB01，请求地址：http://10.60.47.127:3330/webservice/outService.ws，请求方式：post,检查点:{"RESPCODE":"0","RESPMSG":"查询成功"} 
+INFO     root:Test_interface_auto_test_xml_Public.py:255 报文body_GETBANKLOCATIONINFO-PBQB01测试通过
+================================================================================

@@ -1,0 +1,44 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?>
+        <MBS>
+            <pub>
+                <SRCOUTSYSTEMCODE>A3</SRCOUTSYSTEMCODE>
+                <SRCBATCHNO>2020011305</SRCBATCHNO> 
+                <TRANSCODE>CBSQ01</TRANSCODE>
+                <TRANSDATETIME>2021-01-13 10:20:10</TRANSDATETIME>
+                <MD5>123456</MD5>
+            </pub>
+            <req>
+                <list>
+                <detail>
+                <URID>txbCBSQ01</URID>
+                <ORGCODE>001000</ORGCODE>
+                <CHEQUECODE>zp202105131926005</CHEQUECODE>
+                <AMOUNT>100.00</AMOUNT>
+                <TICKETISSUEDATE>2021-01-10</TICKETISSUEDATE>
+                <EXPIREDATE>2022-01-19</EXPIREDATE>
+                <ISSUEBANKID>BOC</ISSUEBANKID>
+                <OPPCOUNTERPARTYCODE>Mindy自动化测试</OPPCOUNTERPARTYCODE>
+                <RECDATE>2022-01-13</RECDATE>
+                <RECEIVABLESNO>收款通知单号</RECEIVABLESNO>
+                <AREA>片区</AREA>
+                <SALESMANNO>业务员编码</SALESMANNO>
+                <SALESMANNAME>业务员名称</SALESMANNAME>
+                <MEMO>备注</MEMO>
+                <CREATEDBY>sandy</CREATEDBY>
+                <CREATEDON>2020-01-13</CREATEDON>
+                <LASTMODIFIEDBY>sandy</LASTMODIFIEDBY>
+                <LASTMODIFIEDON>2021-08-10</LASTMODIFIEDON> 
+                </detail>
+            </list>
+            </req>
+        </MBS>
+        ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,26 @@
+
+------=_Part_177_1776824445.1646138266260
+Content-Type: application/xop+xml; charset=UTF-8; type="text/xml"
+Content-Transfer-Encoding: 8bit
+Content-ID: <soap.xml@xfire.codehaus.org>
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soap:Body><ns1:outSystemWSResponse xmlns:ns1="http://outsystem.ats.com.cn"><ns1:out>&lt;?xml version="1.0" encoding = "UTF-8"?>&lt;MBS>
+  &lt;pub>
+    &lt;SRCOUTSYSTEMCODE>sagd&lt;/SRCOUTSYSTEMCODE>
+    &lt;SRCBATCHNO>TESTBASQ01001&lt;/SRCBATCHNO>
+    &lt;TRANSCODE>BASQ01&lt;/TRANSCODE>
+    &lt;TRANSDATETIME>2022-03-01 20:37:46&lt;/TRANSDATETIME>
+    &lt;RESPCODE>0&lt;/RESPCODE>
+    &lt;RESPMSG>指令接收成功&lt;/RESPMSG>
+  &lt;/pub>
+  &lt;resp>
+    &lt;list>
+      &lt;detail>
+        &lt;CLAIURID>c538447bea78432aa76944fe41e51595&lt;/CLAIURID>
+        &lt;CHARGEID>RLH16&lt;/CHARGEID>
+        &lt;CLAISTATE>2&lt;/CLAISTATE>
+      &lt;/detail>
+    &lt;/list>
+  &lt;/resp>
+&lt;/MBS></ns1:out></ns1:outSystemWSResponse></soap:Body></soap:Envelope>
+------=_Part_177_1776824445.1646138266260--

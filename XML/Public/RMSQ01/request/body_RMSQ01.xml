@@ -1,0 +1,51 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+<![CDATA[
+<MBS>
+  <pub>
+    <SRCOUTSYSTEMCODE>OA</SRCOUTSYSTEMCODE>
+    <SRCBATCHNO>txbRMSQ01_SK</SRCBATCHNO>
+    <TRANSCODE>RMSQ01</TRANSCODE>
+    <TRANSDATETIME>2021-5-14 08:44:00</TRANSDATETIME>
+    <MD5>123456</MD5>
+  </pub>
+  <req>
+    <head>
+      <ALLAMOUNT>400.00</ALLAMOUNT>
+      <ALLCOUNT>1</ALLCOUNT>
+    </head>
+    <list>
+        <detail>
+        <SRCSERIALNO>txbRMSQ01_SK</SRCSERIALNO>
+        <SRCNOTECODE>txbRMSQ01_SK</SRCNOTECODE>
+        <ORGCODE>001000</ORGCODE>
+        <APPLYORGCODE>001000</APPLYORGCODE>
+        <PAYDATE>2021-5-14</PAYDATE>
+        <PAYTYPECODE>201</PAYTYPECODE>
+        <SETTLEMENTMODECODE>602</SETTLEMENTMODECODE>
+        <ISURGENT>0</ISURGENT>
+        <OURORGCODE>001000</OURORGCODE>
+        <OURBANKACCOUNTNUMBER>00100-1</OURBANKACCOUNTNUMBER>
+        <OURCURCODE>CNY</OURCURCODE>
+        <OURAMOUNT>400.00</OURAMOUNT> 
+        <OPPBANKACCOUNTNAME>张三</OPPBANKACCOUNTNAME>
+        <OPPBANKACCOUNTNUMBER>3958035938459874</OPPBANKACCOUNTNUMBER>
+        <OPPOBJECTNAME>张三</OPPOBJECTNAME>
+        <OPPOBJECTCODE>000001</OPPOBJECTCODE>
+        <OPPBANKLOCATIONS>中信银行股份有限公司登封支行</OPPBANKLOCATIONS>
+        <OPPDIRECTCURCODE>CNY</OPPDIRECTCURCODE>
+        <OPPPRIVATEFLAG>1</OPPPRIVATEFLAG>
+        <PURPOSE></PURPOSE>
+        <ISPAYFAILSENDMSG>0</ISPAYFAILSENDMSG>
+      </detail>
+    </list>
+  </req>
+</MBS>
+         ]]>
+</out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>

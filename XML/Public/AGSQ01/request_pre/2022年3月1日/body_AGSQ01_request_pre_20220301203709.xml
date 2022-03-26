@@ -1,0 +1,29 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:out="http://outsystem.ats.com.cn">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <out:outSystemWS>
+         <out:in0>
+         <![CDATA[
+    <MBS>
+        <pub>
+        <SRCOUTSYSTEMCODE>A3</SRCOUTSYSTEMCODE>
+        <SRCBATCHNO>zyAGSQ01000</SRCBATCHNO>
+        <TRANSCODE>AGSQ01</TRANSCODE>
+        <TRANSDATETIME>2021-04-09 17:20:10</TRANSDATETIME>
+        <MD5>123456</MD5>
+        </pub>
+    <req>
+        <list>
+            <detail>
+            <ACCOUNTNUMBER>323232323</ACCOUNTNUMBER>
+            <CURRENCY>CNY</CURRENCY>
+            <OTHERGLACCOUNT>km00411</OTHERGLACCOUNT>
+            </detail>
+        </list>
+    </req>
+    </MBS> 	
+    ]]>
+         </out:in0>
+      </out:outSystemWS>
+   </soapenv:Body>
+</soapenv:Envelope>
